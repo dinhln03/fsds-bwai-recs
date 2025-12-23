@@ -1,0 +1,1120 @@
+item_id,title,cluster
+5b00c097-464e-5195-9fb4-ce51218ea733,Bulletproof Ruby on Rails Applications,47
+cbbafad0-63b5-526c-93ff-435ebca16aa9,Business Machine Learning,45
+1e77eebd-3485-56f6-984e-d0efc70ff119,C++ Brain Teasers: Exercise Your Mind,131
+5f7953c7-2fe5-5eb3-b39e-444eeafdba97,Calculating Sales Tax Using Avalara's AvaTax API in Python,84
+cb662d24-384b-5dd2-b5e6-2a2928c1002d,"Cloud Native Development with Tailwind, Google Cloud and Firebase",13
+1210c472-4f22-5e9c-8f2f-8a220af51508,Craft GraphQL APIs in Elixir with Absinthe,117
+567acb3e-c22d-56c4-93f4-211cbb65e052,Creating Payment Card Programs using Marqeta API in JavaScript,7
+7417d0c0-d08f-5c05-a812-c0b4b6b8c5e6,Creating Payment Card Programs using Marqeta API in Python,94
+1b8b4c6d-9498-5819-88ce-124ea302f3ec,D3 Tips and Tricks: Interactive Data Visualization,19
+1648ec2a-df4e-5a70-9fb2-9435b9b1662f,Data-Centric Statistical Inference Using R and Tidyverse,116
+7336bbab-59fe-5745-bb3c-57d84980c3d1,Decode the Coding Interview in Elixir: Real-World Examples,25
+586645f4-3602-53fe-b977-28d258047969,Decode the Coding Interview in Ruby: Real-World Examples,25
+a3b0fa03-d40f-5d74-8709-23ed950204cd,Decode the Coding Interview in Scala: Real-World Examples,25
+c1f08429-4780-5e33-ae88-ff202eea7717,Deep Learning with JAX and Flax,30
+f794ec04-f386-5d0d-a9d8-157eb9783007,Deno Web Development,75
+39156e6e-d926-5fc2-aa3f-243df6779022,JavaScript for Python Programmers,76
+c4d40e89-c84e-5576-9b10-26605641d64e,Developing Fast and Secure APIs in Laravel,73
+c6c23f1c-b201-5311-8e4a-66c20276d252,Developing Mobile Apps with Ionic and Angular,129
+dcf2553c-764b-5de3-8d9c-e3cad633944c,Developing Robust Web Applications with Ember.js,139
+ac5e45cd-7896-5f27-8517-6071a5d8a1ee,Docker for Rails Developers,81
+f48c5cc6-cbff-5e8c-99bb-124014023620,Empowering Solopreneurs in the Enterprise Landscape with ChatGPT,13
+93402a71-e3fd-5621-adbd-d135c13d13f9,Exploring Space with NASA APIs in JavaScript,114
+567e0a9f-9d8f-5f3f-bc3f-9f1095724372,Exploring the Eventbrite API in JavaScript,114
+d7ff792f-6e4b-5cad-8efc-0c9a70841c18,Exploring the Eventbrite APIs with Python,114
+2bb5e1c6-7061-5d4a-a63a-f01e0fe7105f,Fetching Recipes with TheMealDB and TheCocktailDB APIs in Python,73
+75150827-6ee7-5a03-85c8-526f8a9c3c3e,Fetching Recipes with TheMealDB and TheCocktailDB in JavaScript,31
+d3268a05-546d-5cbf-bf86-573d2fba79e8,From Python to Numpy,5
+734330cd-b40a-533d-be62-9d9d7661d5a6,Functional Programming with ReasonML,55
+00bf6fa9-0e89-559e-bc92-9200bcc08853,Get Financial Market Data with Polygon API in JavaScript,133
+09cd1e9f-4f65-5bc0-876a-40b744e6217b,Get Started with the Dropbox API in Python,22
+40ef8c51-61cd-5ce7-98ff-fe05cdb20b87,Getting Financial Data Using YH Finance API in JavaScript,133
+7ee8bdfa-3e44-5f7a-aae1-5d143a599e0c,Getting Financial Data Using YH Finance API in Python,133
+8563d569-87a6-525f-a561-485061237ef6,Getting Soccer Data with API-Football in Python,125
+b4207e5a-c58e-56bd-ab1c-dcaeb80b6342,Getting Soccer Data with Api-Football in JavaScript,125
+ce70f119-19d2-5587-bafa-3cf0e9f10eea,Getting Started with Dropbox API in Javascript,21
+b73973d8-7df1-5dc4-8898-a1560e171277,Getting Started with Twilio APIs in JavaScript,21
+f03aef44-cbe5-5af5-85d5-745f55b6d1d1,Getting Started with Twilio APIs in Python,21
+082836ba-1546-5a4a-be28-837f41633c98,Getting Started with the Deezer API in JavaScript,21
+3d55c426-8c82-5369-8102-78a1026d647d,Getting Started with the Reddit APIs in Python,21
+22d6962f-9a10-52a3-9745-5872dd9459dc,Getting Started with the Vimeo API in JavaScript,21
+6fd55a38-45c8-5a4f-ae0c-1adca981c940,Getting Started with the Vimeo API in Python,21
+eec6f59b-c025-5e4b-a797-a498b9579876,Go Brain Teasers,131
+198a1155-7a12-572a-879c-ebf8febca79d,Handling Financial Services with Square API in JavaScript,133
+b8be38e1-c4ff-596e-b5c8-0d14157969f6,Implementing an Advanced Huge Integer Class,141
+55166fb6-81b4-56c3-b422-11221160e5ba,Integrate Auth0 with Java Servlet Application,88
+3daecdaf-f029-508b-9356-6ac0c07da9eb,Integrate The Movie Database API in JavaScript,88
+84bf00e4-f285-533f-91b7-6f585a5eb52c,Integrate the GIPHY API in JavaScript,88
+53048eec-a564-5ae0-8d8f-54399ec88912,Integrate the OpenWeatherMap APIs in JavaScript,88
+06a9c0e1-d02a-59c1-a041-433efc0d91b4,Integrate the Spotify API in JavaScript,88
+5ce2d9cf-0fde-547a-ad9b-761792f5f3c1,Integration with YouTube Data API in JavaScript,90
+0093f585-60d1-5157-83c6-d90e3950aa2c,Introduction to JAX and Deep Learning,30
+f0b94e24-ef55-56a2-9995-83ab18df799a,Introduction to Marionette.js – The Backbone Framework,111
+26cf9ed8-6ba3-5714-b084-1054845c9ffa,Introduction to Python for MATLAB Users,111
+6ab8c031-2e3b-5603-8a69-f9ca9d2975dc,Introduction to Visualization Using D3.js,19
+2bdc299b-6970-5658-9825-7fe218ab9861,JavaScript Regular Expressions in Detail,74
+38c6cb1c-0a36-5f4e-86f1-96b131449589,Kotlin Compact,148
+9ad8cd8b-98f0-58c3-82a2-3f43e4a90647,Learning Java for Python Programmers,23
+9f0d72eb-339a-557f-9ffa-25c6249306bd,Learning Python through PowerShell Concepts,135
+4184f18c-691e-59ce-91bc-adfdfd3ff9ca,Manage Contacts and Company Risk with Clearbit API in JavaScript,63
+5540b6eb-864a-59dc-ae46-046481a0db74,Manage Your Codebase with the GitHub APIs in JavaScript,140
+5096fd8b-bcec-5c05-8743-638d9018daa5,Managing Channel and Video Data with the Twitch API in JavaScript,1
+4b2f0bb9-15ea-5554-b001-1ec9b063d513,Managing Channels and Video Data with the Twitch API in Python,1
+990d62a5-68b2-5eaa-a903-8c2ff0e4cb86,Managing Contacts and Company Risk with Clearbit API in Python,1
+5414b959-e56d-5888-953d-20608c2653e5,Master Linear Programming in Python with PuLP,104
+3cd3b6ab-4a0f-5199-9661-8ab1a05cc0d8,Developing Mobile Apps with Ionic and React,129
+d8b86a26-3210-5e6c-93c9-1eb39611e2da,Mastering Serverless Computing for Data Science,89
+1194152f-984a-525c-8cf7-c7f191b89193,Mastering VR Development with Unity and Meta Quest 2,41
+34b33d12-2ba9-50a3-baf2-4db8941e15e2,Mastering the Latest Features in CSS,96
+34ee0bf9-a52d-5db5-a700-6ecbfa73cc73,Mazes for Programmers,76
+954eea65-d65a-5fc6-8176-4c9c2f270bc1,Metaprogramming in Elixir,117
+d6e2f62f-f7e0-5636-b987-d8a5190c0cc6,Modern CSS Layout: Decking Zombies with Style,126
+87a2a3f6-cfe3-57f6-a666-2a8e6e94110a,Fixing Random: Techniques in C#,42
+70c02e0e-c905-5f98-bde6-d95dd8389e6d,Pandas Brain Teasers,131
+2a948b38-558e-5f92-86f8-aaf79265486f,Performing Event Searches with the SeatGeek API in JavaScript,63
+7567d84a-3812-5fb8-bd59-1a86b59b703e,Performing Live Event Searches With the SeatGeek API in Python,22
+5f456b2d-ff87-5f1c-b6db-c76bd37818e8,Plan Meals and Recipes with the Spoonacular API in JavaScript,63
+d9b22a6a-65f4-5250-aab2-9a94a531726b,Planning the Perfect Vacation with Amadeus APIs in JavaScript,140
+b57b6981-03b5-5dc2-bd21-653ebc4b129c,Planning the Perfect Vacation with Amadeus APIs in Python,73
+3faaec80-7842-5a48-b85d-f63d6f569386,Practical WebAssembly,108
+74740bdd-297c-5822-a426-e6d16e2c14bf,Programming Discrete Math Concepts for Beginners,135
+957ea20c-9b67-5636-8d5f-4eb8dca9cbe4,Property-Based Testing with PropEr in Erlang,13
+9bea0a2c-d89a-532c-9cc3-a516f3fe345d,Reactive Programming with Angular and RxJS 7,53
+f2122fd6-1774-52cb-928e-dc8b88a5b436,Recursion for Coding Interviews in C++,112
+eb482967-6e3c-5f13-9979-f921048698e8,Seamless Shipping with the Shippo API in JavaScript,63
+d614da1c-9697-5711-94a0-2a1edaaa8500,Seamless Shipping with the Shippo API in Python,22
+c624dac8-1c40-57d0-8011-0b229ff9f510,Sending and Receiving Money with Wise Payouts API in JavaScript,63
+5cc68249-c10a-5bc2-abc8-540ead4c475c,Sending and Receiving Money with Wise Payouts API in Python,22
+eb919f38-fa58-57e3-98c6-0dae32363ad2,Simple Anomaly Detection using SQL,70
+55d55543-f837-5704-aa2c-badf94c2a0c5,Simplifying JavaScript: A Handy Guide for Software Engineers,113
+f83aefb9-1c7b-5df8-8ad6-4aa8c129ef63,Learn SQL for Developers,70
+114fc958-d6cc-52a2-9a3b-b492d6253715,Staying Up to Date with the News API in JavaScript,63
+4f60560d-de6d-5f1f-a45d-a591436b6ef1,Surfacing Event Data with the Ticketmaster APIs in JavaScript,140
+a6521738-cacb-5e11-a15c-4eb4bfbd2a11,Surfacing Video Data with the Dailymotion Data API in Python,34
+49d4be66-0b86-5da7-a015-c9ef624c321f,The Practical Guide to Python for Scientists and Engineers,108
+3d4c7825-f0fb-53a7-8520-e7d4edbea6e0,The Ultimate Guide for SignalR in ASP.NET Core,10
+7d9f3424-b19a-5dbd-9ec9-1cbc8f2e34da,Tic-Tac-Toe with C++,13
+8b37ef8c-cb52-5c47-af3f-593d5059a4cb,Tracking Forecasts with AccuWeather APIs in JavaScript,140
+d9e06cfd-0cc5-5dea-8395-d33e9bf0347e,Tracking the Cryptocurrency Market with CoinAPI using Python,84
+71320f70-9ca7-5501-8ea3-c27faef4db55,Unleashing the Power of TypeScript,0
+b86c13df-aa86-57f7-98f8-5739e642eb4c,Using Laravel for Advanced String Manipulation in PHP,136
+8f78d15d-03da-582b-a454-879f1fadbbb4,Testing Vue.js Components with Jest,147
+68fadc41-590d-594d-bbed-f1be9c9c0873,Bookkeeping with FreshBooks API in JavaScript,63
+03c69f31-c2eb-5718-86ec-282a06685a0e,Creating a CRUD REST API with Deno & Oak,94
+c7ac6051-4848-5ca0-9148-6d9e0d758962,Introduction to Google’s Agent2Agent (A2A) Protocol,111
+f72a9934-d6a4-50fc-a187-2f74060262ad,Create Courses Using Educative's Publishing Platform,84
+ed2496c4-4b7c-5597-87bb-75807b4ffc6a,Ace the APIs for Entertainment Applications,24
+0254a1b5-0e8f-589f-9f95-98e7a09fea11,Ace the APIs for Financial Data,24
+2cef112c-d0c3-5684-80fc-0f8254c939ee,Ace the APIs for Machine Learning,24
+6c55a8d4-3b90-5b6e-99b8-2119fa1a877b,Ace the APIs for Online Payment,24
+a21e1c31-749e-587a-bb5e-7c3eb5ed51fc,Become a Kubernetes Professional,59
+ca8c2605-3746-5501-be50-2ebd7e6fa018,Ace the Entertainment APIs with JavaScript,24
+98dd0b5d-2990-5486-83b5-0cbc01a1249c,Ace the Go Coding Interview,54
+8eeadbea-260b-5f09-9ae0-72d65e370431,Ace the Java Coding Interview,54
+29c83608-00ac-5b72-b3f6-ab8e8fe1318b,Speedrun the Apple Coding Interview: Top Problems in C++,85
+a771317f-463a-584d-b7c2-ee2a198dfec2,Ace the JavaScript Coding Interview,54
+89c949f1-0e58-5308-87cb-3039cbaa7b61,Ace the Python Coding Interview,54
+88112ff7-ea82-5d8d-b100-b98dbd9f09ea,Become an AWS Professional,127
+de111a0d-7ee6-53ad-aba9-476849d36597,Android Development with Ionic and React,129
+452ba14c-649d-5da0-aa43-9c97be517b09,Become an LLM Engineer,138
+0f7b122f-3884-506d-a6a0-565e4587afed,Android Development with Ionic and Angular,129
+a3d7d4da-b45d-599b-838e-55c566ef87c4,Android Development with Java,71
+d098b2dd-04bb-5b27-bab5-51cc78cc94d7,Become an Agentic AI Expert,107
+b423a55a-67d1-5923-a6b6-5fa6d62a48f4,Web Essentials,91
+3a58d445-a877-5ab0-a83f-c736bd00b13d,Bash Programming,104
+32a4ee1e-06d2-5f18-86b3-997dc83cd304,Become an EmberJS Developer,18
+f97a5eb7-3320-58dc-981e-f4d4e10f9b5c,Become  a C++ Programmer,58
+dcd612c6-112c-5e36-97c4-790ec8d1ea7f,Educative-99 in Go: Accelerate Your Coding Interview Prep,48
+f0b557da-66b9-57dd-9d93-f4c9fdbb3a64,Become a Big Data Professional,142
+bc104bea-709d-576e-b3e3-03c5c9e1a8a1,Become a C Programmer,58
+fb3fe12b-b936-502d-ac71-81dbd19ed3e1,Become a C++ Programmer,58
+4a451eb4-1e6f-5111-aeef-401ed2856e9f,Become a Data Scientist,116
+83735f90-4cb1-5e4b-92c0-759a3e37d245,Become a Database Professional with SQL,127
+4ba32680-63ee-57b0-af0b-68c06eeb169e,Become a Deep Learning Professional,30
+8bcd919e-495d-59e1-8e1d-2b2b21c81e7f,Become a Distributed Systems Professional,143
+10762871-711a-5d5b-89bb-7fce506dc7d9,Become a Django Developer,12
+b7427e01-ab16-5265-b60c-261b28929e67,Become a Firebase Professional,127
+afdb7d75-830a-51ee-aef2-57a8f07a80f2,Computer Science Bootcamp,32
+435d8764-e4d5-5bd4-b99f-e6c53aa7d586,Cyber Security Fundamentals,93
+20e2ad13-2218-5a50-87a8-bbf5c27946ff,DevOps for Developers,27
+f09d1b4d-9fdb-5ece-855a-85ab27d47a61,Educative-77 in C++: Accelerate Your Coding Interview Prep,26
+800a3318-0720-5c56-9575-b58c7bb48411,Educative-77 in Go: Accelerate Your Coding Interview Prep,26
+529f537c-b5df-5a1b-9f99-95d1aee4ef3b,Educative-77 in Java: Accelerate Your Coding Interview Prep,26
+d8b88d10-8ca1-5426-b29a-81fd72035e11,Educative-77 in JavaScript: Accelerate Your Coding Interview Prep,26
+c5473834-de67-530a-869b-fd2100266edb,Educative-77 in Python: Accelerate Your Coding Interview Prep,26
+8f32c0f4-fabf-5b2a-9474-025872bab2f6,Educative-99 in C++: Accelerate Your Coding Interview Prep,48
+cc376fba-6daa-5ab7-8d0d-69ee0ca19ffd,Educative-99 in Java: Accelerate Your Coding Interview Prep,48
+71104846-cb1b-56dd-be34-7aa7e5a659c9,Educative-99 in JavaScript: Accelerate Your Coding Interview Prep,48
+5f38e8b2-5829-5038-ae9e-4b076e6ebb5a,Educative-99 in Python: Accelerate Your Coding Interview Prep,48
+0daa2fe9-1a8b-52c0-9717-94e6f4be4bb1,Full-Stack Development with Spring Boot and Vue.js,86
+fe3d9628-d41e-5f8c-ba4f-b444756a78a8,Fundamentals of AWS,35
+5535c27f-ec12-5fa2-bc7c-8fd9cb554046,Fundamentals of DevOps,27
+75300f3d-6977-55b4-bea8-d7e621aef87a,Fundamentals of Web Programming,57
+396ec442-80ca-5eb5-99c2-9ee267d03c4f,Become a Data Analyst,116
+8f02d9f0-adba-5434-972f-3b2ae72e2150,Become a Full Stack Developer,97
+3d8f3f4c-75dc-5056-8453-10e668546ad1,Become a Java Developer,18
+57e0591c-fc49-5cbf-a139-c95a06cd38e7,Become a Machine Learning Engineer,138
+846eb697-5642-5c1b-8e14-3bc6c39f42e8,Become a Web Developer,18
+06c981ee-c2ee-553a-8ef6-19f81f93bdc4,Golang for Programmers,76
+2a3180c2-db80-5a25-8fa0-a0995c2c156b,Grokking Grind 75 in C++: Mastery through Coding Patterns,66
+98ebb984-c1e6-54c7-aa3c-7a00128f5048,Grokking Grind 75 in Go: Mastery through Coding Patterns,66
+a92f973c-a840-5d99-a3bf-cb050d22fec6,Grokking Grind 75 in Java: Mastery through Coding Patterns,66
+76d37a23-6380-502e-92eb-1371e52b20b7,Grokking Grind 75 in JavaScript: Mastery through Coding Patterns,66
+83a44a68-1e7e-5b19-be10-5713ed60f6fa,Grokking Grind 75 in Python: Mastery through Coding Patterns,66
+a61955b5-a7ad-5d61-8712-ab1ca7ad970a,Grokking the Blind 75 Problems in Java,87
+fe350c2c-35ac-5a08-b311-4118129f0cb5,Grokking the Blind 75 Problems in C++,87
+8cff6984-23c0-504e-b0e4-66eab7ac0e5a,Grokking the Blind 75 Problems in Go,87
+98249448-6b66-5ff4-ae58-39e2b5cf281e,Grokking the Blind 75 Problems in JavaScript,87
+0d6b7a67-fd6b-5646-997d-36de019984b8,Grokking the Blind 75 Problems in Python,87
+6ac4673b-eb67-5e9c-a91f-5254d418b06c,Machine Learning with Python Libraries,15
+115ef5b2-e67f-5eea-b778-fd119ef3e776,Managing AI-based Software Products,13
+852a7e1c-cd98-5cda-83ca-cc0317c41305,Developing Large Language Models,13
+a2c705d2-c90c-56f3-91d1-0ae253e446a4,Mastering Image Classification,41
+38705ba0-7fb7-5390-ab39-d17d7740f8e0,Mastering Selenium,98
+1cd7c64d-d6d4-51f8-b1b6-fa536777e753,Mastering Version Control and Trace Analysis,60
+86337b2d-9a03-5349-94ba-1cd7cf930e4e,Microservices Architecture,14
+1bc59009-69a4-5e20-add1-7251cd16fceb,Neural Networks: Beginners to Advanced,141
+6d96a4cd-2b8e-5c5d-914b-049076b01559,Pandas: Python for Data Analysis,60
+6b5e1934-d9a5-50c7-b46e-bdceb27b2bb5,Python for Programmers,76
+8e85d811-0787-5c77-b384-e5a34c006fef,Python for Scientists and Engineers,62
+473b8ca9-ae04-5eee-8ef2-6d17c9b6f62b,Pythonic Style of Programming: Tips and Tricks,104
+ec657e0b-9a8e-5d37-8357-f63fd022869a,React App Testing,28
+b62eaebe-b3e4-5e8a-bf79-ed3cb04df2d2,React Development for Professionals,110
+7c3bdc32-6a8a-5ac9-a35d-72e6776ffdbd,React for Front-End Developers,28
+a6a24970-f149-5408-9170-6a1d26530573,Scalability & System Design for Developers,50
+cdfd18e3-f903-5252-9d25-5c566a03d45b,Software Development Methodologies,119
+5e8d1db8-78d2-5d50-8fed-09f7fe88cf91,Speedrun the LinkedIn Coding Interview: Top JavaScript Problems,101
+3dc390fb-dd84-5b2b-a422-9b0dc7e17049,Speedrun the Meta Coding Interview: Top Problems in Go,2
+8c4a2eed-2a1a-5be1-b6a0-2396b3304f27,Speedrun the Meta Coding Interview: Top Problems in Python,2
+5035d363-0227-5d84-a711-0bc393498a2f,Speedrun the Oracle Coding Interview: Top Problems in Go,109
+7617625c-e515-5adf-bd3f-1085e028229d,Spring Boot Development for Java Programmers,86
+ee4e41a1-c476-5fb3-8bae-23c0e6f17856,Statistical Analysis with R,60
+659d1eb1-4e85-58df-856d-8def7e3a476c,Test Your Java Applications using JUnit,80
+d1fda0a9-73fb-56b7-a5a8-5a592629d5b3,Test Your Web Applications with Elixir,117
+689adb42-a0c6-5cab-9926-719b7ab51cfe,TypeScript for React Developers,0
+ee5f967e-a498-5366-8453-d055c7038a74,Speedrun the Apple Coding Interview: Top Problems in Go,85
+25b01011-622b-5afc-90d2-24b750ea4e1f,Speedrun the Apple Coding Interview: Top Problems in Java,85
+7a633c3c-0968-5344-a3cb-d1bc65a7b810,Speedrun the Apple Coding Interview: Top Problems in JavaScript,85
+ce2f30d8-d986-5158-96f0-827c85eb8652,Speedrun the Apple Coding Interview: Top Problems in Python,85
+6af4eb6b-3ceb-5213-a2fa-e23fd47e9185,Speedrun the Google Coding Interview: Top Problems in C++,29
+aef580c7-6ba7-56a4-832b-c0912a0b3514,Speedrun the Google Coding Interview: Top Problems in Go,29
+2ce08eec-b2dd-5dae-ab99-e2adaeae2726,Speedrun the Google Coding Interview: Top Problems in Java,29
+1102d98c-e0f2-5849-b549-597653267d9d,Speedrun the Google Coding Interview: Top Problems in JavaScript,29
+524a9e99-b198-514a-aba6-94bbed94ee07,Speedrun the Google Coding Interview: Top Problems in Python,29
+c81a54bd-9895-5f3b-b850-71ab4a20fa87,Speedrun the LinkedIn Coding Interview: Top Problems in C++,101
+75f82afb-0e0f-500a-b7e6-131ed3629ad9,Speedrun the LinkedIn Coding Interview: Top Problems in Go,101
+7ad72c05-1ed0-55b4-91f3-3f002f337e40,Speedrun the LinkedIn Coding Interview: Top Problems in Java,101
+9b3b30f2-324d-5875-af88-1cd71d64faf0,Speedrun the LinkedIn Coding Interview: Top Problems in Python,101
+950c23e5-3f0e-546f-af26-f4984fcf7882,Speedrun the Meta Coding Interview: Top Problems in C++,2
+5e0e04e0-83b3-50e6-a4e6-dbd4d7f60f6f,Speedrun the Meta Coding Interview: Top Problems in Java,2
+6ba862ba-8c94-541c-828f-2ef745fafd04,Speedrun the Meta Coding Interview: Top Problems in JavaScript,2
+674c109f-ffa5-5799-a46b-cb92424c27e5,Speedrun the Microsoft Coding Interview: Top JavaScript Problems,95
+5d0dfce0-b6c8-5b03-8f87-7b1470c33087,Speedrun the Microsoft Coding Interview: Top Problems in C++,95
+d389bb96-5a0d-5ba0-a9e1-34763e216ba6,Speedrun the Microsoft Coding Interview: Top Problems in Go,95
+8fd60f24-b78a-5b06-94be-2756dc5f4598,Speedrun the Microsoft Coding Interview: Top Problems in Java,95
+c06f05d0-5019-5af6-87b7-929ad257d086,Speedrun the Microsoft Coding Interview: Top Problems in Python,95
+eb53a910-0e14-5d7a-97ca-9e07473a9a84,Speedrun the Netflix Coding Interview: Top Problems in C++,46
+bc0a9cd5-a306-5130-9fb9-8ce2c3ec1a37,Speedrun the Netflix Coding Interview: Top Problems in Go,46
+baea7703-f10a-513d-ba4d-32a2696a2f9c,Speedrun the Netflix Coding Interview: Top Problems in Java,46
+26f72d81-63e6-513f-9fb2-cdeae9968d73,Speedrun the Netflix Coding Interview: Top Problems in JavaScript,46
+3697952f-f54f-5151-ac00-a19795a6d2ee,Speedrun the Netflix Coding Interview: Top Problems in Python,46
+2e9b9e9c-b0d1-5ebe-a990-9566b6b43179,Speedrun the Oracle Coding Interview: Top Problems in C++,109
+d1788a26-3d23-5853-98f2-5115eef091f1,Zero to Hero in Back-End Web Development with Flask,49
+4452343a-7427-568a-9f36-4686decc6a50,Speedrun the Oracle Coding Interview: Top Problems in Java,109
+560910c7-2d11-53a0-a562-78c594d08c7a,Speedrun the Oracle Coding Interview: Top Problems in JavaScript,109
+830af9da-5df8-5159-a981-7931a5ac4a45,Speedrun the Oracle Coding Interview: Top Problems in Python,109
+ddbf13cb-443d-5e90-9c31-3b5642227f6c,Zero to Hero in Front-end Web Development,49
+60a5adf1-1cfe-5a86-b102-7f56649baf1d,Zero to Hero in Java,100
+f3095e0b-c3ea-5cc8-9943-0c4855ae40be,Zero to Hero in JavaScript,100
+c5149059-d8b7-5c3b-938c-72af888a7e9f,Become an AWS and Terraform Expert,35
+7b7680bd-b2bd-5247-ade7-ffac16f08b7c,Zero to Hero in Python for Data Science,100
+6614d49b-e4ee-5b68-aee9-1833c39b1f10,Zero to Hero in Front-End Development with Angular,49
+c8a7f1fe-82cc-5063-9a2e-f6d0ac2187ed,Zero to Hero in Python for Machine Learning,100
+5b37e968-3d98-5f14-9b51-c02df81232c4,Test Your JavaScript Applications,80
+e4344a7e-7fdc-5526-8b3d-99eabd98cb93,Become a Spring Boot Developer,86
+b2c62513-9afa-53b7-b05f-0b1914a1ef69,Become an Elixir Programmer,58
+6560135d-5549-5d42-aa0c-31c183754ff1,Ace the APIs for Social Media,24
+419f3ffb-b4c9-598d-8865-83f393f3f84e,Become a Node.js Developer,106
+b8b05d2a-2a7f-5910-943b-b2174bdafb5a,Become a Flutter Developer,124
+33c1a00f-0642-5433-94dc-0cb1608f3613,Become a Ruby Professional,127
+026024c2-9e49-5564-bc5b-2fe085e9ef77,Become an Azure Expert,13
+13cc3226-0250-5993-8ce4-262b8654c180,Ace the C# Coding Interview,54
+3924e34e-1379-579b-b861-1739c11f08db,Kubernetes Essentials,120
+18bfed92-48f9-587c-a146-090ba07ec463,Become an ASP.NET Core Developer,10
+8fa4241e-eee2-5ffd-97de-da46b3fb6a2e,Become an R Developer,18
+2f8f47b8-46ab-5445-898e-84dd3ef5335e,Become a Scala Developer,18
+f7f8e767-fec4-523a-9933-7c3adc8ac0f2,Test Automation,146
+bb5856f3-4cad-5f78-9fb9-900d25b4970c,Become a Front-end Developer,18
+ad9952a2-7875-5fa3-92bf-0387b72f0436,Become a React Developer,18
+1218235f-c064-5b28-86a4-531810b3927a,Zero to Hero in Back-end Web Development,49
+17125a7d-da16-5c0e-b963-02bea4338e66,Web App Security,93
+4948a85a-a968-5faf-9d7b-82ce1e7403ff,Become a Python-based API Integrator,22
+b50042a8-deb1-54af-a31a-4fe40e0b46da,Become an API Integrator,22
+73f6f46d-c9ee-50b8-ae1a-cefdd88ae780,Become an AdonisJS Developer,18
+b7550eea-ce82-5c0b-b7f1-ea323d7582a0,Become an Effective Engineering Manager,40
+e91d5fca-3ecb-5f55-adb4-9b5224de8c8f,Generative AI for Everyone,43
+262e18db-b1d1-573c-a1aa-56bd713a0d37,Zero to Hero in Front-end Development with React,49
+47832fdf-b3e5-5055-a6f4-35daccd3222b,Become a VueJS Developer,18
+e623a4df-e93a-5a2d-a006-e06fd7161ed5,Ace the C++ Coding Interview,54
+079f19e5-acce-5e8d-bf9f-112680ff2ec2,Become a Rust Web Developer,18
+b827d381-91b2-5153-92ac-44e8b71285e4,TypeScript for Angular Developers,0
+701ca257-c872-5f71-a4dd-c00b9d2e430b,Data Science with R,89
+00e15b82-e05e-511b-8896-24c91b6154cc,Become a Prompt Engineer,138
+75596c12-ae52-5782-a859-97702d2d2b02,Become a Ruby Developer,47
+bfa5bc60-dcf2-5c42-9491-3eda85f0a3ec,Mastering Natural Language Processing,51
+c9f6cdbb-7e91-51e2-a7d4-2f5a10e8ee2e,Web Authentication and Authorization,91
+825d08b3-6173-5ba9-bfb3-7779af4e7800,Web Page Styling—CSS,96
+58e083c3-2d19-5595-b612-80f7f5e9e6e7,Zero to Hero in Python,100
+9e2145fb-49a3-5e54-bb04-ab264e4144ca,Become an AngularJS Developer,18
+d3ba04d2-3111-599a-b48c-b2d43272ea99,Become an Elixir Professional,127
+b5aca76a-38de-5a36-a5e9-d8af7b5626ab,Become a Flask Developer,18
+79d9e75e-1953-5853-9064-01d549bda757,Become a MERN Stack Developer,97
+8025d1d1-0663-5837-a17e-e34088ce5bbd,Generative AI for Data Analysts,43
+20125028-f22e-5bbd-a13b-a9c99e076d72,Become a MEAN Stack Developer,97
+d1bfe4b1-86c1-5d52-8aa6-b87bb3da82d2,Become an AR/VR Developer,18
+09329361-2aee-5b0b-8ec6-8b3a0202f55b,Machine Learning Essentials,45
+815a7567-77f4-58cb-8e12-60e73da47b2d,Web Development with PHP,136
+347a44b5-72ea-5185-902b-45613c0447bf,Become a Python Developer,18
+3deec18b-d948-53f1-9c2e-39e7d64396af,Mastering Blockchain Development,41
+9f0555ae-2065-54e2-9514-e2105a7f6674,Become a C# Programmer,58
+b881a113-78ba-5566-8084-d46b3a354462,Java for Programmers,23
+d46996c0-416e-5cc8-b1a8-f354e9e7fd70,Python Data Analysis and Visualization,19
+a038b754-068f-5775-b3d1-d5c4e502374c,Ace the Front End Interview,54
+1a9a566b-1606-5551-b94a-ec223aaf23fb,Learn Perl from Scratch,122
+966ef09b-8717-530c-84da-8f5c59287371,Learning Test-Driven Development with Go,80
+cdec6386-9619-52d6-bc12-9f0302caae04,Master D3.js for Data Visualization,19
+89e250a7-5cdf-589a-9d4f-b8314d82d720,Mastering Debugging: Techniques for Efficient Code Diagnosis,77
+1066ff4e-ae4e-525d-bfd4-efe5e2f94a20,Mastering Hyperparameter Optimization for Machine Learning,123
+a276db6a-6283-5b0b-bd0f-ca99f9a8d1cc,An Introduction to Spark,111
+731ac032-64d1-5a0c-8e9a-0276e462883d,Mastering State Management with Angular and NgRx,72
+2382a7bf-3c86-565d-9b9d-fb435aa7ed89,Grokking the Mobile System Design Interview,64
+811d856d-3458-5ee5-904d-8c5f2a9b292f,Navigating Cloud Engineering as a Career Path,149
+b440b4e1-21cf-58df-bcb8-8655abe5e6dd,Working with Regular Expressions in C#,74
+34c91f38-2664-5be6-a5dc-340f4784c2a5,Practical Security: Simple Practices for Defending Your Systems,93
+342e6ce8-e96e-5ecb-b03f-8993479f50cd,Predictive Data Analysis with Python,60
+60b30be6-6f12-5df0-a741-0095744a6903,Pure Functional HTTP APIs in Scala,55
+f3f78494-29b5-5211-a406-12ccc472340d,JavaScript In Practice: ES6 And Beyond,31
+93c39a73-2b1c-56b4-a78f-27eff550af5d,Build AI Applications with LangChainGo,102
+c8d9f4bb-7f99-5786-8592-4bbce38ca8d1,Learn Data Build Tools ( DBT ),102
+5b7fd195-8dd4-5061-a1b0-8eac17cc0f24,Exploring and Mastering the Full Go Featureset,114
+42f8c9f2-e202-5953-98e4-d2d27091033e,Data Analytics on AWS: An Architectural Guide,35
+6c2cf5fa-0318-57e4-b2e1-89953ff81dbc,Learn Java,36
+a7dc93bc-78bd-5144-a032-15242e517e02,Using fp-ts for Functional Programming in TypeScript,55
+0a920f74-92e3-5323-84aa-896f05c4aff5,DynamoDB: From Basic To Advance,13
+541ce094-ab1e-5dbc-b6fc-78b4fe57924d,Modern C# and .NET Tutorial: Cross-Platform Basics,126
+0a86d6ff-a0e4-5b70-90d5-e976d6eaf144,Interactive Dashboards and Data Apps with Plotly and Dash,116
+78f1b298-600a-54e9-839e-9c38483b318a,Using TypeScript with React,0
+c5de49a5-3905-58d5-9533-0600e3616f99,Scanning with Nmap: A Complete Guide,33
+bf14e885-0ed0-53fc-a11a-6106c7a240c8,Introduction to gRPC,111
+66436e05-f4d7-5a1e-a56e-79d302d1b371,Data Structures with Generic Types in Python,37
+85093486-cde8-5baa-a211-b8e6323cde22,Mastering Cosmos DB through Basic and Advanced Concepts with C#,135
+e3a8db70-074c-5794-a9af-777a6f7b45ef,Developing Play-to-Earn Games in Solidity,13
+ff99be79-4594-54eb-b20c-86ad731d9b5e,Fundamentals of Testing Using Rails,57
+70d3e41a-5aaa-5d0f-8113-26fe1fbebf3c,Mastering Advanced SQL Techniques with MySQL,42
+0bd8f71f-678f-5734-b16c-3880606a498b,Object-Oriented Programming in PHP,16
+089422f2-e830-55ca-bdfd-8b10021bc1c0,"PHP 8 Programming Tips, Tricks, and Best Practices",79
+1d6584b1-009b-51ab-963b-f1ccb54e0f93,Data Science and Machine Learning Interview Handbook,9
+f4cf4eeb-cf8f-5158-80cb-379f3b26345d,Data Science Handbook,9
+53b164e1-ecba-549d-82ae-047d262ab980,Securing Blazor Applications with Auth0,13
+8dd65b75-2606-55b5-8905-abf32a6fe6d8,Password Security: How not to Store Passwords,93
+09744ef1-9be1-55c6-bf6c-13bbf4196906,Configuration Management Using Ansible,72
+215cdd44-2a21-5bb8-bde3-126aac4f9cc7,Learn Agile Methodologies from Scratch,122
+3d777455-1eff-5554-93c6-9d7e35019ea4,Reactive Programming with RxJS,6
+3a5f4c20-dcdf-5af4-ab07-0dec578dd7cf,A Beginner's Guide to Deep Learning,30
+6943b1d8-aa8a-531e-b4ab-d3e104b45d67,Database Administration for Beginners,13
+56f48a8d-cccb-5e02-b0ae-646320316b37,Automations with the Slack API in Python,22
+429cff0c-cf9c-5dfb-b2ad-64c1d3cd8302,Building a GraphQL Endpoint with Deno,65
+a07c22d6-51de-5117-9482-cfd984df431b,C++ Template Metaprogramming,13
+db8ee3ff-2e54-5a84-8094-1cb308c99ad3,Computer Programming for Absolute Beginners,52
+8eaf7d06-b8ab-5106-898d-c908e2f3e6db,Surfacing Video Data with the Dailymotion Data API in JavaScript,116
+b5e96c9a-53d1-5269-8d8c-57c53eae5360,Exploring Space with NASA APIs in Python,114
+d076103e-916d-5c1b-ace1-330b89eb7855,The Complete Guide to Flutter,33
+43fd646d-4f94-523f-af09-0c034520d48c,A Beginner’s Guide To Nuxt 3,83
+62a8e884-0875-51d4-a49d-7a95b665de76,A Beginner’s Guide to Web Accessibility,83
+25835672-c785-5726-8bb0-98a7ab7cd1ef,A Guide to Securing Node.js Applications,106
+14ddb1d7-ef81-5938-a702-180b6e147853,Mastering Functional Programming with OCaml and Haskell,55
+05a9073a-9280-59c8-8363-ce80792009f9,A Hands-on Guide to Angular,53
+6b06eda2-64da-5709-890c-25da8403c2cb,A Guide to Vagrant and Virtual Machines,78
+80e2e93d-6798-514e-bc38-9528c07fcf75,A Practical Guide to GraphQL: From the Client Perspective,108
+08d875a0-e3a0-5b15-aa3e-70f65ab663c0,A Programmer’s Guide to AWS S3,58
+258f1d3e-4f83-59f2-ab0f-7978d7cb48ce,AWS Certified SysOps Administrator - Associate Exam Prep,99
+aafaa2de-87b5-58f6-bbf2-5259f5e1f065,A Front-End Web Developer’s Guide to Testing,56
+34ec19a5-f58f-5512-a7d6-d8409e1cb270,Modern Front-end Development for Rails,56
+5ff2fcd0-2ea4-565a-81e2-0e9568a409d7,Building Full Stack Applications Using Meteor.js,65
+55f93045-cff8-58fd-bdb6-f27b7ebe8d21,Professional Ethics,127
+662e80b3-895a-5416-a096-60dea210b096,Mastering Self-Supervised Algorithms for Learning without Labels,3
+e411c55d-87ea-559f-b968-6fae8d332100,Using TypeScript for Building Polymorphic React Components,0
+bc7a1d85-9c22-5a14-9b8a-8b085a3a2f68,Learn Three.js for 3D Computer Graphics,20
+1c2e891a-4449-5367-a474-fdf43a3a3829,Getting Started with Algolia API,21
+52c652c8-168b-5456-afb9-a032d1d8e33c,Adopting Elixir for Software Engineering Leads & Managers,117
+088b5155-c2f6-550d-a42c-0ca709a5cd42,Advanced Programming Techniques in D,42
+ce6b651b-d589-51ff-aa6e-e2091f5869f8,Using ML.NET to Build Machine Learning Models,45
+6119da59-573b-5a0f-bcae-d640d0cbaa9a,Advanced VueJS: Build Better Applications Efficiently,102
+3dc8e269-d962-5ca3-9526-9fbbe4817047,Agile Web Development Using Rails 6,75
+0c4b74a6-a40a-5f82-8b84-fe4b315b0ea5,Introduction to Ruby on Rails,47
+9d4e9e6d-dc44-5574-9288-26396cb475f3,Sass for CSS: Advanced Frontend Development,96
+b38b9bab-01f9-5ba5-a91e-03672a8283f7,An Intro to Python 3,5
+37048f28-9a79-5a14-8587-a3dc05aa91ef,Using xUnit for Test-Driven Development in .NET,80
+1ab69578-e76d-5ac4-8ff4-9360a04111f5,Troubleshooting Docker and Kubernetes Containers,120
+82aee9e7-ab17-5a72-97ba-ef38f630eb9c,Data Visualizations with ggplot2 in R,116
+877573e4-530b-5b64-ba36-d638962d79c6,Building Scalable Apps: Redis Implementation with Node.js,106
+37464b18-3b1f-58bf-b61c-f4df84bc466f,JavaScript Promises,31
+273b98c2-0a43-5800-9e6c-206879410040,"Build Microservices Web Apps with RabbitMQ, React TSX, and Django",12
+ea90687e-ab83-5373-a4ff-6d209588ab1c,Blogging Using the Blogger API in JavaScript,7
+1a5ba7bd-ceb1-55e6-8c13-dab14514a63c,Mastering AlpineJS in a Day or Less,41
+b8d47d9f-768a-5c35-b1ba-4be08f8fb191,Building Event Driven and Microservices Architecture in Azure,14
+58726b25-1746-512c-869f-8c45af565d3a,Data Structures Preliminaries (Refresher of Fundamentals in C++),37
+5bfb715d-e4eb-5843-9532-496ebcb744f5,Building Web Applications with Blazor,65
+9ddec745-f970-5bf2-a5ed-fb7529c6b4c3,Cloud Architecture: A Guide To Design &  Architect Your Cloud,13
+aa480f02-8c22-5067-a1a6-bfcad2b3d900,Building Multimodal RAG Applications with Google Gemini,65
+9cc486a8-492f-5788-9ec1-d2bc0b7a5658,Deep Dive into Object Detection with YOLO,67
+43d5bf59-6515-51ea-ad25-da1fa95c43d9,Applied Machine Learning: Industry Case Study with TensorFlow,45
+8df63af7-11da-55c2-9890-91d8ecc00666,Applying Agile Methods to Large Teams and Projects,13
+5300952b-34a9-5f2d-a5b3-584b91086121,Building a Backend Application with Go,4
+2f4a7d9d-01e6-528d-9b63-5b26b643327f,Getting Started with Image Classification with PyTorch,21
+754cc98c-6407-5816-b22f-d1c1228e51cd,Python Brain Teasers,131
+1cecf0f9-87b4-58b0-9930-bb51fadb4044,Learn Graph Algorithms in C++,82
+89ca9b65-2948-59f7-ad40-0fd2d4f57d86,Learn JavaScript in the Age of AI,36
+d0ec678d-6cd4-5b30-8de6-bc061102c17e,Azure Data Studio Masterclass,13
+7d9ef645-71c8-5fc7-98f5-8aa5be6b8cea,Functional Programming Patterns With RamdaJS!,55
+82a4390d-d407-5b6c-815b-d4c73ff9b48a,Initializing Data Members: From C++11 till C++20,116
+6a11937b-18f7-55e6-9a40-7242fdf72ad1,Create Desktop Apps Using Python & Tkinter,84
+ab67505d-65e7-5b2f-a7e5-89ffe21d5e38,Introduction to the Solidity Programming Language,17
+1c79eaa4-4e09-597b-b7c0-b4579ca367f4,API Development in Go Using MongoDB,13
+17a059fc-812d-5a6b-af24-a8515a76d774,Learn Functional Programming in Haskell,55
+cdc4b686-7545-59ce-af04-d7ebdd4e98c6,Mastering Security in Frontend Applications,93
+3681cd73-78eb-5d4e-ab72-58f9cc126b38,Introduction to Data Analysis and Visualization with R,19
+23dcf383-0501-5815-afc4-d94aaceb6141,Up and running with Node and GraphQL,106
+e2eb71b9-099c-5def-9d39-76554d96b1aa,Android Development Masterclass,71
+c8ef0175-b992-5554-81af-81c29420c65e,Mastering Jest: A Complete Guide to Testing,33
+74d3bacb-60b6-5c08-8a0d-8944e15ccb3d,Designing Elixir Systems with OTP,117
+25854165-658b-556a-917c-2f70587a9200,Let's learn ES6! Master new JavaScript features faster and easier,8
+de46cc98-6fe7-500d-a774-7c70bac2a747,Master Azure: Build Microsoft Azure Solution with C#,13
+b5ac07e7-9e09-5752-933d-78bfb05f7924,Navigating Metaverse: Thriving in the 3D Internet of the Future,13
+64bdc820-d086-5ea8-9de4-930c70cd84ed,Using Jasmine to Unit Test Your JavaScript App,80
+319a714f-577f-5962-bb97-cedf23a2946e,Automating With Node.js,106
+23b1550b-18a6-5ba8-bf20-af1e4af7cfc1,Hands-on Vue.js: Build a fully functional SPA,147
+91b36320-5a5a-5501-a51a-6949f8ecbfdd,Azure Data Factory Bootcamp: From Beginner to Expert,83
+043f69d3-eb7a-544b-bf9b-fc729477f2ee,Using PyTorch for Image Classification and Object Detection,13
+96163039-2f31-565a-8e23-7a4563ae9364,Developing Microservices with Quarkus,13
+b879193f-f157-597e-8e7a-5e612a38927d,Kanban Fundamentals: Boosting Developer Productivity,57
+42027da6-3596-5681-adcc-6402c1ce64be,Developing Web Applications with Dart,139
+69da41ec-7015-5c37-8052-18cbd057aafe,Building Applications with Gemini Code Assist,77
+cf4f15a3-cf0f-5e79-9475-b9d92530f6ac,Learn C++,8
+29e9416f-11a9-5381-ad10-a2fb93f49946,Ace the Product Analytics Job Interview,54
+f8280369-467d-5732-9171-e90f2c48bd5b,"Competitive Programming - Crack Your Coding Interview, C++",104
+38d176f2-6386-5e7c-a169-ef639190ae77,Java Unit Testing with JUnit 5,92
+a4f302d6-fbb4-5aa5-9335-d4801327156f,Logical Thinking,13
+9518696f-471a-5a1b-b0ac-e1bfcc533178,Web Application Penetration Testing,4
+9f2d6674-062d-5b4f-ae05-5d81152d74dc,Unit Testing Java Applications using JUnit 5,92
+22879630-5d30-5442-8b39-163da2428e7d,Building Reactive Applications with RxJS,6
+382ceac0-8ff9-5278-9e44-0a4bd46d4846,Building AWS Lambda Functions with C# and .NET,35
+e42cdabb-c128-52b3-acb9-68f9d2281cbc,Reliable Machine Learning,45
+dfed35f9-f58c-5b26-a8e4-0158c637f97f,Mastering Computer Vision in Python with OpenCV,32
+6931450a-1e42-5481-b2fd-483bc143a41f,Designing Web Layouts with CSS and Flexbox,96
+4e68e695-a452-5494-86ca-d17757b4a9b7,Game Development with JavaScript: Creating Tetris,94
+b336733e-645d-569c-8bcf-5473e51ba172,Modern Android App Development with Kotlin,71
+d1692803-f407-5681-bccb-7d5a501d7760,Kerberos for Beginners: Intro to Network Authentication Protocol,145
+50f29079-5103-502e-b3a5-ae22b1b54e54,Building and Deploying Azure Functions in .NET,13
+0bdb3d5d-53a9-54f7-9f4d-f397575e3370,A Guide to PyQt6 for Beginners,78
+fb0648fe-d443-5bdf-8aae-e7960d24b724,Building User Interfaces and Functions with TypeScript and React,0
+aee4d818-a17c-5ba3-a79a-6489ec619913,Introduction to Master Pages in ASP.NET,10
+43fcc1d6-4135-52f7-8d7f-41dc644335b5,Building Tesla’s Battery Range Calculator with React & Redux,134
+a5a44a85-3abd-50c5-ada1-798855bc0f4b,Learn JavaScript,8
+5afcde30-d6b4-58dc-8c0d-c089d9bacc3a,Building a WhatsApp Clone with Vue.js and AWS Amplify,147
+c9930ddf-97c1-52c6-9352-b55c345decc5,Complete Guide to Testing React Apps with Jest and Selenium,33
+52669de1-d252-5d40-aed7-7badd5815e6e,The Coding Career Handbook,9
+da374cce-9e97-54c3-900f-36908003ae02,Responsible AI: Principles and Practices,13
+adebb006-55fb-54fd-adf8-31d5c7bd40d7,Ethereum Blockchain Development with Solidity and Next.js,20
+c81e973e-595e-5d7d-9522-b4f47a6923ab,Testing Next.js Applications with Cypress,20
+7bec013a-b8a4-5ede-b22c-a1397198407b,Using Python Altair for Data Storytelling,84
+b9c65fe2-30eb-544d-bad8-a8eb8cbd4080,Exploring the Hugging Face Inference API in JavaScript,114
+d66a0c6d-80b6-5088-bd63-5efc9ce95a62,Mastering MVVM Architecture in Android Development using Kotlin,148
+37cc27f9-3033-5335-9f89-673e04cabd69,Automations with the Slack API in JavaScript,63
+62daf5b7-71df-5840-b021-113264ce3269,Directives and Pipes in Angular,53
+7ec655b4-7429-5661-8ec6-0b6d81bfb86a,AI Project Management: Deploying and Maintaining AI for Business,107
+65d8fb3d-7557-5630-807e-bb1c5e049041,Build Reactive Websites with RxJS: Master Observables and Wrangle,6
+2d78550f-f9a4-5208-aea2-2ef6e4d713bb,Test-driven Development with React,80
+31ac9793-dae5-5a65-b0c1-1f8f8fd902d5,Designing Graphical Causal Bayesian Networks in Python,13
+22dadddc-1a46-5fc4-8033-47711272c68d,Mastering Web Scraping Using Python: From Beginner to Advanced,141
+7d37645d-ede2-5527-b5f5-fa98ec9fcc0d,Building Static Pages with Astro for Perfect Core Web Vitals,91
+b4131f51-52d9-5a9f-95e0-7de0997926e1,Automated Inspection with Computer Vision,32
+d329ba1c-e457-5b41-ab36-836b92d79dad,Deep Learning for Android Apps,30
+e2428924-db3e-5a56-bbf2-4b8ac0ba39c4,Bayesian Machine Learning for Optimization in Python,123
+ff283108-99c1-5844-93cc-0f0a84ef0c1b,An In-Depth Understanding of Memory and Pointers in C,13
+f673356a-9965-5bb1-a7df-3afc0b2b8622,AWS API Gateway: The Unsung Warrior,35
+bd3a5f88-7153-5b90-a896-2500aef6b177,Scalable Web Development in Rust,75
+fe36eeb6-95e7-58de-b9b0-3c5ac620b5b7,Front-end Testing 101: Integration and End-to-end Testing,56
+e6bb7cac-c59b-5338-8f12-de8519233722,Introduction to Computers & Programming,17
+b540e1d6-0449-58d0-abf8-309356a531b8,Learn Data Science with Bash Shell,89
+5dc5bafa-27c6-52f7-af76-71dbd5f556e1,Domain-Specific Languages: Design and Implementation,50
+44662e12-fd5d-51e4-9d23-41e2871b72ab,Learn MongoDB,8
+581fdd97-03b7-5dd0-a1c7-8a531c2a34de,Mastering NullReferenceException Prevention in C#,41
+17c354d7-0a91-5058-900a-670a03a395d5,CI/CD Using Native Tools Available on AWS,35
+b86565fa-fc37-5244-ad89-2037ef341cae,Fundamentals of Digital Signal Processing,57
+2094a503-d2df-5998-8a67-039ff498ef21,Building a Full-stack Application Using the MEAN Stack,97
+68af7b3a-c6bd-5c3a-98f3-419c48d1758b,Decode the Coding Interview in JavaScript: Real-World Examples,25
+8e85d811-0787-5c77-b384-e5a34c006fef,Python for Scientists and Engineers,62
+d04b6398-4303-588c-9845-87e34b7a34c8,HTML5 Canvas: From Noob to Ninja - an interactive deep dive,67
+f96f7765-4b0a-51f7-a524-11d970c2ecda,Learn Java in the Age of AI,36
+1a713257-2878-5a8c-9607-28b0af29787d,Learn Data Science,89
+9ff6e3ca-04ba-528a-9203-a1769c883616,Web Development with Golang and Beego,75
+5f39075b-da51-5de0-9868-701b7b27c873,Creating Augmented Reality Apps with Unity and AR Foundation,94
+baedecff-2499-5d30-a4e0-35fde108cac4,Managing State in Flutter Using BLoC Pattern,124
+4d0c6259-df0c-5b8b-b4eb-421e5198616e,"Foundations of Linux ARM64: Debug, Disassemble, and Reverse",13
+93f80904-fb92-5de0-a5d9-504863983744,Deep Dive Into Data Science Interview,67
+8456827b-77dd-5a51-a407-24bcc42ae969,Authorization with OAuth 2.0 in JavaScript,31
+6fa9da26-133a-58ee-93e0-ea9abbcc61a4,Building Web-Based Games and Utility Projects Using JavaScript,91
+9fc89e7b-1365-5101-b824-3e15109f31e2,Integration With YouTube Data API in Python,90
+bf09fca9-87d5-5b58-a306-1eb643ff4bf7,Staying Up to Date with the News API in Python,22
+67b12ffc-8cc1-56bb-9ed5-0407a5568999,Getting Started with Braintree API,21
+7311805a-1bb9-5864-b6a2-6d428df4c76e,Grokking Bit Manipulation for Coding Interviews,112
+bd54b20f-3e87-56d0-9109-e35a00c82b41,The Complete Guide to jQuery,33
+029d017f-4cfe-5641-a52b-7d07d8e3f31a,Competitive Programming in C++: The Keys to Success,104
+f9596bc9-290b-54cd-8ab8-963aff4b24b1,Everything You Need to Know About DeepSeek,13
+5aad084a-8ae8-5f45-b0b2-394d95d77842,Web Scraping with Puppeteer,91
+07787efc-833b-5a7b-9a1e-a5f6db2d0da8,Mastering Web Application Deployment Using CI/CD Pipelines,4
+94780091-217b-50f7-92ff-05e9f24e1c19,Learning OpenCV from Scratch with C++,122
+0e71d042-1ee0-5901-bb8d-bc01e363868a,Data Wrangling With Python,34
+75640a49-bbb0-50d7-bad5-283544576cfe,Querying Databases Using Transact-SQL,70
+63da4ae0-762e-5382-a7d7-07522e28ce54,Using Entity Framework Core for Data Access & Relational Mapping,116
+765c49db-a705-534d-ac3d-3590d4777802,Facebook Login and the Facebook Graph API,82
+6faff740-73fb-544c-990c-588ed142e75f,Surfacing Event Data with the Ticketmaster APIs in Python,73
+5c630281-385b-5cee-b917-b0aeffe741e8,Getting Started with LINQ in C#,21
+a6b8b262-cfaa-5196-9157-25d9ffcc46fc,Master Data Analysis in Google Sheets,60
+8932a6d9-2dd2-509a-ba78-96ce51c05380,The Flutter GetX Ecosystem,124
+a4356bdd-9f98-5ffc-b8ac-231118a4cd33,A Guide to Search Engine Optimization,123
+3401b8cd-f5db-5951-bbcf-83fe2e911f16,Fundamentals of AI Fairness,107
+5176008b-66f1-5e13-9937-72de4ce8aba8,Web Development with MVC Architecture and E-commerce in Laravel,14
+1be1daed-8130-5e46-a7ee-d3ab972bb3ea,Effective Unit and Integration Testing in Scala,92
+b52b6293-c367-5315-ac4a-d822a25caf5c,Performing Natural Language Processing with R,51
+f6e95ada-8de7-525c-88f8-69eb3f9c21b9,3D Machine Learning with PyTorch3D,45
+91598969-f2d9-5eeb-baa0-44653981b8c3,Data Science with R: Decision Trees and Random Forests,89
+0ca08e52-accc-57d2-846b-f28b9393cf2f,Jump Start with Vue 3,147
+3963fb25-5ed4-516c-9ca5-c3d3f5cc5a68,Mastering Optimization with Python,123
+221bae41-ab29-59bc-9261-d092bc724370,Data Science in R: From Basics to Machine Learning,89
+e6fad773-7aca-5a0f-acc8-0e99d4b365d3,Automate Workflows with AWS Step Functions,35
+335e834c-7324-5619-83db-976894d0159b,Designing Machine/Deep Learning Models Using Azure CLI,30
+146c9800-5499-5817-8218-c88fc319ea70,Marketing Analytics Using Machine Learning Techniques,45
+32f3ec5b-89a0-5b5b-9575-064b0a4e11b1,Testing React Applications with Postman and WebdriverIO,28
+0c1fb1ca-7744-5710-acd5-6b02180384ce,Effective Performance Management for Engineering Teams,40
+29f7b502-48be-575a-b370-ed2876ed7b07,A Beginner's Guide to the Google Maps API,83
+05e8f32a-dcdf-5d59-bd9b-70b029196ec9,Analyzing and Transforming Faces in Python,5
+89af4935-07a6-541b-9f4b-aefa3feb29c9,Integrating the OpenWeatherMap APIs in Python,73
+d8ad752d-f3a3-51cd-9c27-2762c017579d,Managing Your Codebase with the GitHub API in Python,1
+de4453f4-c624-5c85-b867-e7366f56e954,Using Python and Transcrypt to Build a Complete Web Application,4
+a379e73c-2d6a-5c4f-8147-0e1494af6479,Selenium WebDriver Recipes in Node.js,106
+0546aaf6-968c-5b63-85e0-105c008e798f,Introduction to YAML,111
+c421561c-7407-5b52-aa34-c865e83342ae,CSS Theming for Professionals,110
+6d563127-d1a5-5839-8f02-4c0300914125,Hour of Code: Build Your Robot World in Java,77
+b1fb9be3-4fce-53c3-8362-0e077c96715d,Python 3: An interactive deep dive,67
+2949c3f3-592d-5a98-9acd-057020f27848,Full-Stack Development with MyERN,97
+e9df87dd-94e5-5a27-88d2-7101a538c401,Machine Learning Applications in Gradio,45
+22e7d5ac-ae70-5482-a044-122c71c4b689,Algorithms for Coding Interviews in C#,61
+3a81ec98-a904-58cd-a2ce-562c9cd3f3ed,Building Grammatical Error Correction Models with Python,13
+1940f6aa-356d-5b58-8e61-f857e27e2e42,Optimization for Machine Learning with NumPy and SciPy,123
+6f779c14-ac50-5c60-8ed1-e37ff7c454fe,Build a Modern Server-Side Rendered Vue Application with NuxtJS,147
+9972e439-dc2f-5013-a412-77eeadba3c96,Solving the Traveling Salesperson Problem in Python,103
+be658944-e4ab-5c09-a4fc-4d54886a5174,Become an AR Developer: A Complete Guide,33
+7257d5a1-1625-5848-ada6-c54ce1436eda,Deal with Mislabeled and Imbalanced Machine Learning Datasets,45
+4115bf3d-9616-546f-b333-a53eb451e4c3,Advanced pandas—Going Beyond the Basics,13
+dafbe211-a8c9-56fd-a080-2a0fec6f3e4b,Mastering Plotly and Dash Data Visualization with Python,19
+ed3b92ee-6d9e-5c3f-8c19-6320e98daa68,Master Explainable AI: Interpreting Image Classifier Decisions,13
+6422580b-8746-5e51-9bdf-e4c7d2a7d3cc,AWS Cost Optimization,35
+1f08a55e-0b24-5bb4-bec9-3470f5ac9601,Building Scalable Web Applications Using AWS CLI & WordPress,65
+0fdc299b-af51-5ae7-9650-f3b20ca9064c,Building Safer JavaScript Applications,65
+9bd5df55-59fe-5b20-a9d6-c286e2b70b78,Building Reactive Apps with Svelte and Tailwind,6
+24611e4e-e7b1-5d24-8c3a-705dda723f91,Building a Serverless App Platform on Kubernetes,120
+a414714f-6ce7-549d-a423-8c296f6755ff,Angular Testing with Jasmine,53
+cb9f9e0c-426e-5d40-b9f7-993113bf2986,Creating Alpine Linux Packages,94
+5e014cd8-409c-5017-a283-e4ef987120a5,Building Applications with React Native,65
+55851b88-e4ea-5e28-965d-436268575d0b,Animations in Angular,53
+05116eec-4025-5b02-937e-7aa9932c605c,Mastering Unit Testing Principles with NUnit,92
+85b55ba2-76e3-5850-bc83-b881ba8a998d,Creating Five Impactful Applications with ReactJS,94
+2b89195e-08fb-5d8d-ba30-e6711c6f8bd0,Using OpenAI API for Natural Language Processing in JavaScript,51
+59cd7bd8-ef55-5791-922f-d3cbb2a84f3b,Responsive and Adaptive UI in Flutter,124
+d50279ff-3f6f-5652-96a8-eada610ab96d,Build Robust Applications with Test-driven Development in Django,80
+d5ee2593-3d3f-5f60-9006-cb544da66b66,Mastering Artificial Intelligence with Azure Cognitive Services,41
+77f39cd8-71f0-5a38-b337-d0de56a26e5e,Integrate The Movie Database API in Python,88
+3371efc1-e9a7-5561-ab8c-238fb38b4116,Tracking Forecasts with the AccuWeather APIs in Python,73
+1156a617-3a12-5cb0-8834-e51474cfaf52,A Quick Guide for IP Subnetting,78
+9508880b-2deb-5060-b888-e87cf933653c,Using the Python Transcrypt Transpiler for Front-end Coding,84
+c47c52ad-d952-5c6c-88fa-799f4c3fb1a5,The Handbook for Ruby Developers,9
+874ac1e9-e0b6-5c18-ae5d-bcd3330575eb,Mastering Regular Expressions in Java,74
+bc621df4-dc2d-5037-826e-b1fd2b223e00,Frontend End-to-End Testing with Cypress,56
+4fde8c1d-5f46-51e2-a400-c1b3d1df588f,Data Analytics Interview Prep Using Pandas,13
+a77941f1-e999-5032-9faf-fa017ad07074,Optimize your web projects with Progressive Web Apps,91
+e1a48754-3879-5184-8985-e0aaadc31ffa,Programming in D: The Ultimate Guide for Software Engineers,113
+dfb3cf57-9b5f-5579-8bc1-a697af0242bf,Full-Stack Web Applications with Firebase,97
+d7282b7d-3ae9-585e-9322-1387653072d7,Ruby Concurrency for Senior Engineering Interviews,39
+e0284e30-1f2f-55e2-8f5f-36be15252a57,"Learn React.js, Redux & Immutable.js while building a weather app",20
+cd13638f-2c03-5329-8b2f-76e5ca1c6730,Practical Redux,134
+edf979ab-3b17-5796-9527-03c18631b405,Bookkeeping with FreshBooks API in Python,22
+5fcc09e9-3dc9-552c-b7bc-53fc5193f842,Bootstrap 4 Layouts in Depth,13
+b1d54310-86c6-5e13-b65a-ef093488777b,"Build Amazing Layouts with HTML5, CSS3, and Bootstrap 4",102
+bfb23afc-cc9f-52f0-95fb-bfe329301d21,Build a Custom Membership Website with Velo by Wix,102
+2faac39c-d578-5853-9877-123cf857839b,Building Debian Packages from the Ground Up,65
+74616bea-e8eb-574a-b541-a94a0ec16854,Building Full-Stack Web Applications with AdonisJs,65
+71c4107d-a7c1-50fb-a39e-7f5e21ad9256,Building Real-Time Web Applications with Phoenix LiveView,65
+70cdb001-284e-55db-aba4-a60ba94c889b,Building Websites using HubSpot CMS APIs in JavaScript,140
+7f01d7ff-6ccc-5257-985f-31f7ed1212f1,Building a Jamstack Application with Next.js and Strapi CMS,4
+97e41cb9-a69d-589a-9a88-df94329f311d,Building a Medium Clone With Vue 3,147
+8479561c-007b-59ec-beb0-e8988c285a43,A Guide to Learning Software Trace and Log Analysis Patterns,128
+933aa160-0b85-5a0d-8d14-997dfd7e2ec5,A Practical Guide to SQL  and Database Fundamentals,108
+73e7b16d-8583-5cec-955f-e111f9226a22,Accelerated Linux Core Dump Analysis,60
+26f3501c-9319-5d5a-88d1-3e0f7f183986,Ace the FAANG Program Manager Interview for Beginners,54
+6817ba81-2856-5d95-a699-1b504e7e750b,An Introduction to Basic Set Theory,111
+d98b8fe3-8609-5e45-9f23-a5313987ac88,Applying Hugging Face Machine Learning Pipelines in Python,15
+b9777b2f-19f9-5704-9d80-60da9f542e64,"Artificial Intelligence Foundations: Logic, Learning, and Beyond",45
+f91b6d52-87a8-57cd-b012-38cd87f3751c,Authenticating Application Users with Okta in JavaScript,4
+24a25583-fcba-5b58-95d2-9868a5f0dbed,Authorization with OAuth 2.0 in Python,5
+c205a50f-717c-5bf6-babb-2f7773aab5de,Beginner’s Guide to Terraform,83
+7e6c4a8c-1847-5160-94ae-b1828aeab57a,Bioinformatics Algorithms,3
+4012a72d-244a-5293-aaa1-1f6a7ad34e01,Blogging Using the Blogger API in Python,84
+7043309f-49bd-5050-b5da-04b1332b2784,Hands-On Generative Adversarial Networks with PyTorch,43
+83424d94-a9ec-5d12-a89b-6c6b17af1f15,"Advanced Kubernetes Techniques: Monitoring, Logging, Auto-Scaling",42
+10502edb-a680-5898-a501-559e69f6a35e,Kubernetes in Practice,120
+28ee89ae-fc1b-5c28-b5a0-6530bf265fa1,Generative AI with Python and TensorFlow 2,43
+49662424-4dd7-5ac9-8666-e5a07c8ac08a,"Learn HTML, CSS, and JavaScript",96
+f294c2e1-733c-5d98-80c0-7fd6dd462f78,Generic Programming Templates in C++,104
+61829f6c-2000-5a7c-acde-afe54fde5f93,Building Real-Life Applications with Blazor WebAssembly,65
+ea8795f8-52b7-5e13-88b7-2124008dfc43,Ansible: Zero to Production Ready,100
+7f82e4be-4f23-528c-b843-ebaa2c30c253,Building the Frontend of Python Web Applications with Streamlit,65
+ded0867c-04c4-5af2-99c3-3073ec8de4cf,C Brain Teasers: Exercise Your Mind,131
+772c1605-c6f0-5ffb-9ef4-e98ea2db3260,C++ Concepts: Improve Type Safety with C++ 20,135
+5479897e-9088-575d-979a-0c66bba64a4a,CSS for Front-end Interviews,56
+070f3498-6a2f-532e-8bf9-b9812e142a92,Computer Graphics in Python and Pycairo,32
+79b8087a-9fe7-51f0-97b0-613fb1f32c49,Computing Matrix Algebra with R and Rcpp,13
+e3ac00d8-7bb0-5954-a973-acf7bca32a48,Control Access to Your Applications Using Auth0 API in JavaScript,7
+5665ec81-b618-58a5-b89c-0dede467bbc3,Advanced React Patterns With Hooks,28
+bd2c963a-1d18-517b-bbd1-a33f4b0e6d1f,Deep Learning with PyTorch Step-by-Step: Part I - Fundamentals,30
+3ffa4628-e272-5d25-99c2-559fc15e19fd,Learn Node.js,106
+d85c66ce-ff5d-5b92-af20-20276f4099f9,Building a Web Application with JavaScript and IndexedDB,4
+57b5c282-0578-5a9b-9395-51cac6371fe4,Elasticsearch Fundamentals: Indexing and Querying Data,57
+1573f398-da14-575a-ba79-356c88bb4b22,The DevOps Toolkit: Working with Jenkins X,27
+38d15196-f526-575a-9aa1-438d7f92b801,Learn Express.js,20
+eee443fe-e315-545c-8e95-ba4d1638f437,Advanced Techniques in Go Programming,42
+7e883a43-9124-59db-bd4f-99793bc50a68,"Debugging, Disassembly & Reversing in Linux for x64 Architecture",14
+d09f1654-fff8-5073-bfce-30a920bec37a,Decode the Coding Interview in C#: Real-World Examples,25
+47395d1b-b428-5e4f-9da9-c64b335d0dde,Decode the Coding Interview in C++: Real-World Examples,25
+c8c50fd1-e1ca-5d35-b6a6-a11c504a9811,Decode the Coding Interview in Kotlin: Real-World Examples,25
+1d52d6af-7709-5d16-8a6a-90234a419aee,Decode the Coding Interview in Python: Real-World Examples,25
+2de94792-bcf7-5b47-bbee-58707496f82f,Decode the Coding Interview in Rust: Real-World Examples,25
+241eb461-609f-52ef-8e2b-9c6fa8e04b1f,Decode the Coding Interview in Swift: Real-World Examples,25
+13d183fa-264b-5fc4-88b4-2050f5c50bc1,Building Scalable Data Pipelines with Kafka,13
+9ea2bab5-9155-57e1-aa1c-fc3970ccfc6f,Hands-On Quantum Machine Learning with Python,15
+2cc5a5a6-e163-5756-a96d-e112d073cb9b,Design and Build Great Web APIs,50
+36690d79-1a3c-5acf-a426-94157727307c,Develop Web Apps with Streamlit,91
+54eb0340-7232-5f0b-83da-e7025e08b8bf,Developing Applications with ASP.NET Core,10
+0a52653e-697a-59f6-bc0f-b2ff145dced8,Development: A Guide to Modern Software Delivery,126
+a2cd906c-4efe-50dc-9a45-5c9c39114ed5,Discover Ruby Programming Through Fun Examples,47
+65f711b1-faac-5390-bc4f-fb9f5e25f13a,Docker for Web Developers,81
+e5844a88-6a7e-513d-87a9-087632633836,Dynamic Programming in Python: Optimizing Programs for Efficiency,68
+2e7459bd-e181-5db9-bbf5-11d08d4dee8b,Effective Data Manipulation with pandas,40
+0c291dc3-a299-51de-8463-9440eb93e8cb,Ensuring Elixir Application Performance with Testing and ExUnit,117
+34831640-66d2-56c2-a375-82b7d94da8c4,Exploring Graphs with Elixir,117
+8cc8220f-b89a-5982-aa65-13671aade2f7,"Functional Web Development with Elixir, OTP and Phoenix",55
+dcc90955-c09c-5e43-a48f-5f12f12691e9,Fundamentals of Machine Learning: A Pythonic Introduction,45
+78189498-6363-50d1-a831-e5b66d81ec64,Genetic Algorithms in Elixir,117
+403685c0-fe20-5bb6-8851-80c55966e98b,Get Started with the REST Countries API in JavaScript,63
+08306bf7-a95a-5ca1-a165-235f22fd7c6f,The Complete Java Crash Course,69
+a8ad6a39-db21-55f5-8fc7-e3df30d0468e,Master AWS Certified Developer – Associate (DVA-C02) Exam,99
+dbc1d917-62d9-5594-b89f-5324c28d44f0,Getting Started with GraphQL using Node.js,106
+e162441a-3e2f-591a-acb1-dc2080e7634f,Getting Started with the Reddit API in JavaScript,21
+d2988572-dfe7-56df-b4b5-e458a28c1724,Go for DevOps,27
+3247b680-0908-55ad-8d51-88a924300030,Grokking Dynamic Programming Interview in C++,68
+939a441b-9fb2-512e-a63e-80bccbe56a6d,Grokking Dynamic Programming Interview in JavaScript,68
+9f683c85-13b7-5b20-bf88-1047272a96c1,Property-Based Testing with PropEr in Elixir,117
+d3aef21f-10f7-58a4-8af2-1ef758bc6466,Grokking the Technical Writing Process,64
+b953e251-926b-5a73-ad6b-8cb739b2bf63,HTML for Front-end Interviews,56
+d15e3539-6ff9-5768-9b1c-035864c028da,Handling Financial Services with Square API in Python,133
+9216f0c8-5711-509c-ac0e-5305ed707df3,Hands-On Game Development with Rust,13
+ba1c02e4-9b39-56bc-9491-75d1e3d32831,Hands-on PHP & MySQL: Build a CRUD Application,136
+4b492a6d-86f8-506f-8aef-c0e6d475e73e,Complete Guide to Redis,33
+288b0896-a2d7-509f-9833-a15698a29faf,HashiCorp Terraform Certified Associate Preparation Guide,99
+97a48939-6ad1-5f1a-8488-73b0ecb3ccdf,Make Your Own Neural Network in Python,145
+8aeca239-b9ff-5e25-8609-5354bf2655fe,Information Representation in Computer Systems,137
+6a9a158d-1a3a-541c-a783-707764502146,Integrate the Spotify API in Python,88
+ede0964c-a89f-5c1e-8078-bad7f4c81d23,Integrating Apollo Client with React Applications,28
+ce27c059-23a0-570d-95be-6f3de0cdb508,Integrating Firebase with React,28
+8d583795-4cb7-523d-8663-e138e83de5bc,Integrating Microsoft Computer Vision API with Python,32
+a2c6816e-4668-5323-a5a7-8d02002cf04b,Integration With Stripe API,90
+69225224-b8ba-509a-a986-7e467ded7646,Intermediate Redux with Redux Toolkit,134
+866d097f-f4f0-5b6d-8af2-e9d1cf6726d3,Introduction to Prompt Engineering with Llama 3,111
+a8c3814c-befb-5a59-8e28-770f32f88305,JS Assessment: Assess your Javascript skills,20
+c389e82b-6521-5874-b906-f0c0899a8075,JakartaEE Security Workshop,93
+2584ff3d-9b75-5c8e-bb41-6ca437d7e6bf,Java Exception Handling Made Simple,13
+2b527f0a-04aa-55a1-9d1f-ce9d3b1364bd,JavaScript in Practice: Getting Started,21
+38eaa072-4e58-58a4-9e84-3806b16418b6,Kotlin Design Patterns and Best Practices,79
+d263b23b-fbbd-5311-8af0-f55fc1b87797,Launching a Personal Website Using R,84
+657364dc-9f0a-5086-a26b-ed5118b1e2b8,Learn Coding Basics in JavaScript,8
+2c54f4f5-58fa-5d7e-8114-15b5b4147585,Learn Front-End Development and Automated Testing with Angular,56
+0a884f7c-1aee-5d88-86bd-9b567bacd649,Learn Functional Programming in PHP,55
+ead11574-d935-5751-b452-66107a0f064a,Learn REST and SOAP API Test Automation in Java,146
+a91014e5-df04-5eec-a260-b0d6bcc12755,Learn React Hooks for Frontend Development,28
+3638d263-4b74-5cee-a994-a21ec4753b2d,Learn Ruby,47
+bd00b580-433c-54ca-9270-537be2b1ac7f,Learn to Use HPC Systems and Supercomputers,118
+e6939967-3453-5a77-a602-6aed70226018,Learning to Program in Ruby: By Example,47
+248956b0-f47d-5390-8e92-47b51fc81aa5,Machine Learning for Beginners,45
+d86e83b9-8d7b-54b8-b002-831b1353e270,"Manage Profiles, Pages, and Groups Using Facebook Graph API",82
+8f88af1e-d282-5289-890e-d0cc843af6e4,Master State Management in Flutter,124
+2e827b1a-6c82-5198-be48-d98cabed7a83,Master the Deno JavaScript Runtime,31
+1cdb1a6e-28f3-5c85-a895-e1cf9375c458,Master the JavaScript Interview,31
+c6c1ffcb-849b-517c-bb58-da1b09bdfdab,Mastering AI Product Management,72
+9d5fb7ff-36d1-56f4-8cfb-4286afe44a64,Mastering Angular Reactive Forms,53
+62e0bd27-8a41-5804-9f86-3adc440324b4,Mastering Concurrency in Go,41
+dc589d7e-5deb-55ae-9b86-73a09cefafb1,Mastering Graph Algorithms,3
+aadbe370-04e8-5637-b2b5-681489855dd9,Mastering Kotlin Essentials,148
+91921b7c-aa12-5781-907a-2ef4a7e9f3a8,Mastering Mobile Application Development with Ionic,129
+8de2485b-bc10-50a4-8ea7-5738d83d9179,Mastering Modern Perl: Writing Efficient and Maintainable Code,77
+b0418122-bcba-596f-a828-e41932652f4e,Mastering XPath for Selenium,98
+86455928-e8e5-5ecf-9068-3dd136d872f4,Mastering spaCy,41
+093350f5-ee4b-5170-afe3-db363b1c34a0,Mastering the Art of Programming in Python 3,104
+900521be-bd2c-58ce-8379-2d2d054b43c1,Matplotlib for Python: Visually Represent Data with Plots,34
+00045f02-6c90-58e2-99f9-443eb96a9554,Medical Image Analysis in Python,60
+c4e3b435-e4fa-5253-bd57-413f0f3b3ba6,Python 201 - Interactively Learn Advanced Concepts in Python 3,135
+e87dc204-3b47-5003-93ff-96d144935fea,Mini Course: Build Rock Paper Scissors with C++,121
+c94115a9-b485-52ed-ac58-ab0112e8c0ff,Mobile Test Automation with Appium,146
+6034f775-ca93-5860-a35d-294a7a0aef92,Modern Android App Development with Java,71
+4891d63f-7c4e-54bd-bd48-aaa8c44e838c,Natural Language Processing with Machine Learning,51
+69b77a02-3823-5300-8d82-831ac3213bb9,Natural Language Processing with TensorFlow,51
+f91f0c9b-3265-5509-83be-4331bfbb1b2f,Feature Engineering for Machine Learning,45
+3de42e9d-6965-5c09-a0b2-7ac7256df039,New Programmer's Survival Manual,58
+e69d9f9d-cc4f-56f3-b3bd-ebb8565306fb,Number Systems For Computer Scientists,137
+886a0e59-f4e5-5594-8691-f850e5ff3b15,Oauth2 with Spring Security,93
+093097ac-a26a-567c-8533-49ae78455d62,PDF Management in Python,72
+239d0231-11f5-5651-8be3-255dabd641d3,PHP for the Web: Learn PHP without a Framework,136
+45ff75fe-f6c8-5870-a875-7636887ddf33,"Performance Test Automation 101: Gatling, Lighthouse, & Jenkins",146
+de7e50cd-a6b4-5732-8e95-22f29a2706d5,Mitigating Disasters in ML Pipelines,13
+66c7c7c2-5863-5878-ba94-2e748a5018be,Pragmatic Unit Testing in Java 8 with JUnit,92
+9e4e0a0f-698c-5f9d-84a9-057fc7755401,GitHub Copilot for Professionals,110
+9a781a76-cd8f-5b31-b200-d93b69612dc4,"Build AI Chatbots with Open-Source LLMs, LangChain, and Streamlit",102
+fcda7150-a4a5-547a-804f-9d46a26523ee,Programming in Python,104
+9bd84256-515b-592b-8370-0ecfd94f9588,Problem Solving,103
+b33a4a46-7839-521a-8cb5-a106ea9add3d,Python 101: Interactively learn how to program with Python 3,5
+166f428e-db1d-5872-958a-02cae82e6d50,Python FTW: Under the Hood,5
+668b07d0-7a6b-5e89-9759-b7eaca4f2dbd,Mastering Big Data with Apache Spark and Java,142
+e3859e62-489e-5042-a08e-9f9ea5c7ada1,Mastering Unit Testing with Pytest,92
+d8062ee1-161e-5949-851c-15b8a1d28e4a,Python REST API Development: A Comprehensive Guide,22
+e04f6953-e00d-5d0d-b028-6dd03b6a0072,Python Regular Expressions with Data Scraping Projects,74
+f271d288-b3e7-5938-be09-601c968eb978,Python Scapy for Network Security,145
+314dd26b-6d0a-5a9c-893b-04ee0cb7e416,Python for Mechanical and Aerospace Engineering,149
+345c2f6a-3de2-513c-b026-f5779ae68efa,Pythonic Programming Tips for Software Engineers,113
+01ed02c5-a0c8-5fd7-8ffe-299161faff5e,AWS Security Fundamentals: A Practical Guide to AWS IAM,35
+665121b5-e10a-5b6c-b853-8e6feba232f0,Rails for Front-end Development: Essential Tools,56
+4d033619-52be-5501-8f52-ba44746f6235,React and GraphQL: Build an E-commerce App with Hygraph,28
+34551cac-8787-5260-b343-354e4ec8811f,"Rediscovering JavaScript: ES6, ES7 & ES8",31
+43efeed7-0476-58cf-92b0-b32c235dcb33,Regular Expressions for Programmers,74
+5fb4c71e-ced4-5669-886b-dae5545d3d70,Run Selenium Java Tests In Azure DevOps,27
+7afa9f0f-8bf6-55d2-ae87-36eba3a746ea,Big-O Notation For Coding Interviews and Beyond,112
+d438a4ae-8b52-59c4-a289-28790f574d29,SQL Antipatterns: Avoiding the Pitfalls of Database Programming,70
+5f1cd293-b11e-5550-8255-28f0f04e101f,Image Recognition with Machine Learning,45
+64a964b4-4e61-5093-98da-cdbaec2199e3,Secure Coding Practices in C++: A Deep Dive into const,67
+48b9f40d-ccaf-5121-b19d-06c062fb6124,Securing Azure Workloads: Principles and Practices,13
+fa198632-d745-570f-8109-71dc90408ebb,Securing REST API for Web Applications and Services,13
+ad3a026c-ff32-552e-9189-3b7148f98a9f,Ace the AP Computer Science Exam for High Schoolers,32
+a4013f88-e657-518d-ab88-63ed465b0220,Simplifying Machine Learning with PyCaret in Python,15
+06c662d4-f805-5607-a886-8c030cf6aca7,Introduction to Human-Computer Interaction,32
+b8b1fb30-1ca2-5b64-a277-ed278b1c0138,Transferring Data with ETL,116
+eeeda337-8772-5b7a-8155-50d183bf9384,Text Preprocessing with Python,5
+3f70d070-2ca8-5780-adac-b7633376796d,The All-in-One Guide to Java Programming,78
+d888eb6c-b50d-5328-aa30-b4db667f8c8f,Understanding Deep Learning Applications in Rare Event Prediction,30
+fc87266e-5572-5da7-80e2-c01395fd92b3,Building Full-Stack Web Applications With Node.js and React,106
+ef419846-9cd0-5b3e-a94c-e525c73bb28d,The Complete Guide to Modern JavaScript,33
+ca57da0a-4903-51f4-8de7-787708d7b1cf,The Detailed Workings of AWS S3,35
+e42e2295-774b-5a05-a4dd-74a5e97b3b66,A Practical Guide to Machine Learning with Python,15
+09ca9123-8102-540e-9205-1fe1abc3e471,The DevOps Toolkit: Kubernetes Chaos Engineering,27
+73d26e7a-25f6-57ca-b1a8-3217e988c4bb,The Django Admin for Web Developers,12
+6dc3bf28-603e-5ca1-bf94-9a3decd7ee54,"The No Nonsense Introduction To Big Data, Hadoop and Streaming",142
+a4b3d745-6c3c-596f-8a3c-5cf0b5bb2d54,The Road to React: The One with Class Components,28
+52977a2c-75e9-5370-a599-4eb60f3b6498,The Ultimate Guide to Redux,134
+68c4c296-0b3b-5876-9f92-bf609eeb2704,The Ultimate Guide to gRPC in ASP.NET Core,10
+c801393d-bc1f-59e6-be91-09464b32116e,Time Series Analysis with Python,60
+c5e5253a-2046-5838-bdea-d95a6061f313,Transformers for Computer Vision Applications,32
+3334313d-016f-5ecd-a088-ff116f29dc94,Understanding Redux: A Beginner's Guide To State Management,134
+57a5274e-a0d9-54d3-a953-d266c6f548d1,Product Management Essentials in Agile Environments,72
+de7539dd-7956-573d-b01b-08f6b79b1fb0,Using Apache Camel with Enterprise Integration Patterns,13
+087c2a5c-0a42-5d8f-90de-8f7edfed88f0,Using GeoPandas for Geospatial Analysis in Python,60
+65c045e6-362a-5307-bc63-df76509ecec2,Using Python for Reading and Writing Optical Labels,84
+b7294cb1-1d40-58b0-882d-7eafe179631f,Using Single Sign-On for Securing Applications in ASP.NET Core,10
+54dca50c-d249-5a09-9110-522c9dbb2f5c,Vue - The Road to Enterprise,147
+d731e80e-ae5f-5b98-af59-22246058f7f2,Building Resilient Event-Driven Microservices Apps in .NET 7,13
+47246370-d8cd-5b67-be11-774082e907f2,Web Application Security: Understanding HTTP Security Headers,93
+525ea9b5-f795-54a4-b1c8-88790e0891eb,Distributed Machine Learning and Its Implementation with H2O,45
+f95170da-af3d-58fc-a4b0-fb0190a815e1,WordPress—A Complete Guide,33
+2c64aec1-033f-55e4-b3ca-2e089209adb0,Developing Microservices with Spring Boot,86
+5571c160-da58-59b3-afcb-ef6950fd8184,Django Takeoff: Developing Modern Applications,139
+2c7d5d27-d81a-520a-a1e1-b785c99a6ac2,A Practical Guide to Helm,108
+c972c7b7-5562-5679-b391-feaefcc02bd4,Advanced TypeScript Masterclass,0
+384de5f0-9088-573d-8d07-b3fa3582a220,Kotlin Crash Course for Programmers,148
+181e738f-df77-5f07-90e6-9b6b343eadfe,Mastering Algorithms for Problem Solving in C++,103
+4f90bcb5-5ff3-5cc6-adb9-806613dba64a,Mastering the Art of Programming in Elixir,117
+6ae7142b-e980-5c4c-938d-601da17f7f99,Programming Fundamentals: Getting Started with C# and .NET,21
+6d296176-af41-5559-97dc-4cba155852c0,Reactive Programming with RxJava,6
+9a6f95ee-d236-5171-9947-d6914a4a407c,Running Kubernetes Cluster using Azure Kubernetes Service,120
+518e1279-9bd9-55b1-b4f7-872d3f3a1b0f,Java Masterclass for Software Developers,119
+f3961e0f-04f1-53a6-9dc1-327d772e9097,Web Development Interview Handbook,75
+90e5827e-5cb4-5dc3-8ed7-5d235769c287,Become Proficient in WebXR: Create XR Experiences Using A-Frame,84
+4c6733c0-13d4-5f2d-b53a-aec36c925025,Testing React Apps with Jest and React Testing Library,28
+7bd460b0-39bb-5577-ac49-8c49b901ef60,Building Enterprise Applications with Spring Boot,86
+ff85d462-dbf4-5d0c-b044-6381b67c8a88,Getting Started with Git Version Control,21
+8b88681b-935a-5124-a90b-b8d286de3cb0,Getting Started with SQL and Relational Databases,21
+d4dbdcfb-34c2-5f18-9e2f-80cb323fee0a,Prompt Engineering: Building a Professional Portfolio,127
+b80280b3-1e36-5233-9823-e74a8b701f25,Understanding Flexbox: Everything you need to know,13
+191da950-0ea8-58b5-923e-b428bdd878cd,Using OpenAI API for Natural Language Processing in Python,51
+0380014a-eb08-583d-a2e7-6cdc426280c2,An Introduction to Time Series,111
+8b858958-f6b9-5d01-b56d-6e65c0f6415b,Automating IT Infrastructure with Ansible,13
+e42535ed-7b07-5480-a3f3-537f8edf8340,Building Web and Mobile Applications with Flutter and Firebase,65
+2c79f5e4-237b-5dda-a6d9-76043f58bc51,Building your own API with Rails,13
+f9056d2c-233b-5063-bf25-133b5cb0316d,C++20 STL Cookbook,13
+22760f5d-7b55-5636-9b0e-49c2ba0a84d4,Hands-on Machine Learning with Scikit-Learn,45
+4d4a508d-4916-5fe6-b4f4-04509b85d8e6,Introduction to Complex Network Analysis with Python,145
+0c184261-fe29-579a-9a21-36c7614877f4,Learn to Code: C++ for Absolute Beginners,52
+bc52df05-7075-573d-b8be-c012b45fcb8f,Mastering the Technical Project Manager’s Handbook,41
+d874c2e4-b6bc-509c-b68b-1409a2031a35,Write Professional Command-line Programs in Go,127
+4e90a7b0-2f28-59dd-a108-0c9a2c48a801,Design a Test Automation Framework with Selenium and Java,146
+abf38d00-3ef1-5eb3-8b89-d21b378f7b74,Building Advanced Deep Learning and NLP Projects,30
+855f0723-3516-59f1-bdf0-74b9272a60f6,A Complete Guide to Firebase on the Web,33
+8e45bf8d-437e-5de1-a4dd-b60c122bf0fe,Algorithms for Coding Interviews in C++,61
+ae84273f-5159-5b66-b8a5-31021d762a31,An Introduction to Developing Web3 Apps Using Solidity and React,13
+4358d113-4ee0-5f37-aca7-15dc2f87d89a,Mastering Data Structures and Sorting Algorithms in JavaScript,37
+9e8cc69a-78c7-5ba3-9359-7822eaea50ba,An Introduction to Entity Resolution in Python,111
+0e66b9fc-e078-550e-85df-68ac618f8d4d,Programming with Kubernetes,120
+cb6b6399-30d7-52cf-96e6-e0bcc05f1765,Build E-Commerce Apps with Reactive Programming in Spring Boot,6
+49ce9b29-0a54-50ab-bb25-3e9eef5f47cb,Building Cross-Platform Applications with .NET MAUI,65
+41d908ed-3106-5875-baca-51af70187276,Building Secure RESTful APIs with NestJS: A Practical Guide,105
+9056d098-4619-5860-bf1c-f601da756098,Learn Node.js from Scratch,106
+21917a6f-62a7-5d11-a9fe-75336b01fa6c,Data Visualization and Analysis With Seaborn Library,19
+22101e41-9e88-5b54-9edf-06fde36d7e5f,Decode the Coding Interview in Go: Real-World Examples,25
+a296e591-65c9-5135-a194-911a734b2281,DynamoDB Deep Dive: NoSQL for Software Engineers,67
+5c9d2b12-94f3-53ca-b480-d34b1f48c4c3,Full Reactive Stack: Spring Boot 2 & Spring WebFlux,86
+82e8e7e2-a50c-5f6f-a075-debda32f0e62,"Building a REST App with Go, Gin, and Docker",81
+1e4a7ea8-0e37-5cdf-8593-02e51984f4e3,Getting Started with TypeScript ORM Libraries for Node.js,106
+6db2e4a0-18d7-5716-8b46-e3ef0fba2bf9,Introduction to Diffusion Models,111
+3b900bb1-d90b-50c0-853d-d450767d5966,Introduction to Graph Machine Learning,45
+3ce84a2c-802b-58ae-80b9-52bd8e475bc2,Modern CSS with Tailwind,126
+833ba53f-cda9-51d0-ae8b-230b4ae47255,Kafka Streams for Software Developers,119
+a6047b40-ba88-5a23-bbbe-00dd21c71d98,Modern Web Design Using Bootstrap 5 with Hands-On Projects,91
+5d701f9e-5c91-5846-97d8-034d22bd9f8f,Powerful Command-Line Applications in Go,65
+652fb016-9670-59e3-9ecf-4bb332ec9575,Processing Real-world Data Efficiently with Rust,13
+b3a8c296-0e04-5919-8188-916e139c53d5,Burp Suite Extension Development,75
+18d62f73-a892-512c-a43b-ea289d927c05,Rust Brain Teasers,38
+ae5a3120-54a3-5e17-9451-db1afabfae52,Spring Data: Bridging Multiple Databases,86
+2d55e1bf-1b40-521c-a936-441d239060d3,Test-Driven Development in Java,80
+590ee616-488c-5bf7-bd30-4c1278a5f091,The DevOps Toolkit Catalogue,27
+9f131587-6885-555c-9559-717302fc4f34,Recursion for Coding Interviews in JavaScript,112
+54ca4209-bb4c-5c57-8d71-8d7b9043420c,Building Full Stack Applications with GraphQL,65
+92921982-1261-5188-aead-98292126ed5b,C++ Programming for Experienced Engineers,113
+defc0118-cc2b-5870-bbd7-08a053a1737b,Theory of Computation,13
+4a8729e1-9b22-571b-a996-5a5e165123c5,Advanced Data Structures: Implementing Tries in C++ and Java,44
+92e76337-d646-574e-b5a0-1afe52e837a6,Alexa Skills 101: Building voice apps for Alexa,6
+b8194d59-2980-59b8-9587-6422ffa5e593,All About JUnit5,13
+3b33c4d2-4dd7-5cd0-bc92-5b4e599fc931,Applied Machine Learning: Deep Learning for Industry,30
+5fedf9ea-814d-5571-9231-ee91d44b1918,Becoming a Functional Programmer with Clojure,58
+b798863f-7452-5e8b-8734-26d3bbbaa7ed,SQL Interview Preparation—Intermediate Level,70
+a0c58ecb-2785-5c1b-82ff-368c3673cc86,Beginner to Advanced Computing and Logic Building,141
+b82e0d96-d82b-54f4-a35f-adcce5975abd,Beginning Flutter: Android Mobile App Development,144
+e80fbc4d-fb9f-542f-bf4a-25741b904040,Binary Search for Coding Interviews,112
+b55863a3-8109-5b32-893b-853372024c77,Discover: JavaScript Frameworks Behind the Scenes,31
+2c954c28-ec18-52dc-be4f-991ad027b552,Next.js - The ultimate way to build React apps,28
+b95db325-859c-5cb8-bf5e-4432828e3303,More Effective Agile: A Roadmap for Software Leaders,40
+74dab66b-3ba6-517d-af2e-93c9348bba62,Building Database Applications in Elixir with Ecto,117
+1426a678-9762-59d9-a625-2af67c2ae1d7,Building Front-End Web Applications with Plain JavaScript,65
+980dd677-0443-57a0-99d5-2ecb27b14d73,Building Progressive Web Applications,65
+15d67d0e-a8bc-5d25-8acf-4d21c49571e1,Building Real-time Applications with Phoenix & Elixir,65
+49a08032-7fa9-5882-85db-38cdac30d65a,Concurrent Data Processing in Elixir,117
+906c6b7b-433c-5e2b-b38c-2ddcbf38f9c0,Creating Long-Lived Web Apps with Ruby on Rails,94
+75f10408-70c9-547e-a5f3-1eba50a061db,Custom User Authentication with Simple JWT in Django RESTful,12
+860ad38e-3930-5c6b-b3ec-7de74b845e42,Data Analytics in Python,34
+9d28a3df-35ee-5583-827d-befd2a571d5b,Data Science Projects with Python,89
+2925c230-8568-52bd-938f-2b30173bbf07,Building a Machine Learning Pipeline from Scratch,45
+b7e2cbcf-de08-591a-9a4a-23edea2600be,C Programming for Experienced Engineers,113
+d1756170-5447-55c8-a5b8-fbc7dd4b181f,Data Structures in JavaScript: Visualizations & Exercises,37
+207b0f49-102a-520e-a39f-6d050cbf9c71,DevOps Katas: Mastering DevOps Practices,27
+e927ce4d-4fe8-5cef-b4c1-7a778e50b9e7,Developing Web Applications with PHP,139
+b1b4d369-3903-5877-a981-0e30733c95a8,Build a Successful Developer Brand,18
+74b6ab6a-2d5d-58cb-a72f-39c70812ec5d,GitOps—Modern Operations for Cloud Native Applications,126
+54843dab-66fb-5c63-b670-07c4bcfe7144,JavaScript Brain Teasers: Exercise Your Mind,131
+65d3f3f9-8b7a-50ab-a851-0bb8ee3dc319,Basic Pytorch Tensor Manipulation for Machine Learning,45
+12339159-c170-569b-ae01-0f970ba8b9cf,Learn Functional Programming with Elixir,55
+5d0ef83d-97d9-5164-8a4a-1d02816f2095,"Develop an E-Commerce App Using Java, Spring Boot and Vue.js",86
+d3e27a40-c5a2-51bc-bdbb-22e4da1954ff,Grokking Modern System Design Interview,64
+ce2e76ba-9302-5886-b4a6-7f90308f7049,Grokking the Coding Interview Patterns,64
+b6cf4add-32b7-5186-8411-2524b74d8316,Grokking the Coding Interview Patterns in Python,64
+693f0331-d0e8-5cb8-aa14-c819f8d4d992,Grokking the Low Level Design Interview Using OOD Principles,64
+60c11599-bb59-5293-9f9f-3ba142d091fd,Distributed Systems for Practitioners,143
+8ed4fbcf-7aa2-59da-9710-a5b1934b0f79,System Design Interview: Fast-Track in 48 Hours,50
+de445301-33b3-51ee-9987-518e60f54768,Grokking the Product Architecture Interview,64
+fbd9d1d3-afd6-5859-ac51-518a0af5d8c9,Grokking the Coding Interview Patterns in JavaScript,64
+0cd46987-7af4-5fcf-8bd0-1c00b4de5964,Grokking the Coding Interview Patterns in C++,64
+42fde79a-9324-5ab9-852e-2e6137a1bbff,Mastering MCP: Building Advanced Agentic Applications,65
+0f957ae3-d4ef-5613-9127-f9b75c6b0a42,Llama Stack: From Fundamentals to Deployment,57
+2ac28642-51cf-5712-9a6a-07bd253f6d7f,Learn Python,8
+2a2246f0-79a1-5d54-9c15-e1762b35b2bd,Grokking the Frontend System Design Interview,64
+cf811166-3186-5442-9181-afafaf04f687,Grokking the Generative AI System Design,43
+1bfdd98c-978e-5e76-925e-3619ef136e4e,Machine Learning System Design,45
+a28ebe5e-4ff1-57f6-8f99-f04f18866746,Grokking the Machine Learning Interview,45
+f7e8f574-9a9f-5261-96cb-24b976d9bfbe,Learn C++: The Complete Course for Beginners,115
+0c2e6d14-2fb0-52da-b372-1b81fb9c9ecb,The Way to Go,13
+72b2ea7d-e9b4-5c32-a3c6-52b096ec6cd0,"Learn HTML, CSS, and JavaScript from Scratch",122
+33a873ba-6cc4-550d-9bb5-bf3d68ef94b8,Learn to Code: Python for Absolute Beginners,52
+ae8e09b1-6c22-566e-be64-3cfd9eb6bc61,Grokking the Behavioral Interview,64
+b4401ed7-d166-5f8d-977a-6c700fdc5b94,Master AWS Certified Solutions Architect Associate SAA-C03 Exam,99
+58fb2462-09a1-59de-935e-eeac98e850c0,Software Architecture in Applications,119
+096dbf55-5e41-5b58-b57c-2da13b76a978,React Deep Dive: From Beginner to Advanced,67
+e32e3b00-43cd-5227-9c4f-3b46f3699819,Learn Python 3 Fundamentals,130
+71cbc247-d6bc-51bd-92c3-be67286a4bb9,Building Blocks of Coding: Learning Python,15
+9de97c97-7dac-5d34-8691-a1e4d4e5f93e,Grokking the Coding Interview Patterns in Go,64
+aebec00e-3574-5aed-a107-2cba8c8cb3c3,Learn Dart: First Step to Flutter,124
+5408873b-fd24-5d88-b9cb-006f59eb08a2,"Operating Systems: Virtualization, Concurrency & Persistence",118
+585cce25-bb92-527b-88dd-652726a8256c,A Practical Guide to Kubernetes,108
+c6dc0151-9c91-5438-992e-5fe8ca5c4891,Grokking Computer Networking for Software Engineers,11
+4c89dad2-fa73-53f1-9884-a458df9e69d6,Learn Java from Scratch,122
+346196db-2c94-5199-bfc2-20a8c095947e,Learn C Fundamentals,130
+5577e602-fd44-50d6-aa42-f6bedf55b186,Learn Kubernetes: A Deep Dive,67
+fdaef02b-e80b-5fbd-ab86-6f3981cfb23b,Generative AI Essentials,43
+e4e7dde0-90c9-50b7-bbf0-e9219ba4141b,Learn Object-Oriented Programming in Java,16
+de28d24c-3a5d-540d-b617-9f00213afea1,Data Structures and Algorithms in Python,37
+49c5b28c-ce7e-5d5f-ad45-ffedebd656c7,Docker for Developers,81
+2e2db5e8-235e-5c9a-9901-d4ab45638099,Clean Code in Python,77
+9ca1a2df-6cb9-56e1-9b6e-6445fee8196c,Guide to Building Python and LLM-Based Multimodal Chatbots,78
+f357a0fd-3fe0-5360-81f5-805b6c2b42ac,Database Design Fundamentals for Software Engineers,113
+893ed52c-7b9d-585a-8c66-9d98ec0108a2,Fundamentals of Retrieval-Augmented Generation with LangChain,57
+a7cb72b6-f0c8-5d83-b489-22fce5bbe0a3,Java Multithreading for Senior Engineering Interviews,39
+869dd909-08fb-5555-ab3c-b390f3d9d6bb,JavaScript in Detail: From Beginner to Advanced,141
+4936e112-da27-51d2-a16b-265da28c507b,Learn Git the Hard Way,8
+aa432bfb-3fe3-5b30-a4f4-a7f48ef2770e,Fundamentals of Machine Learning for Software Engineers,113
+52a03d03-88fc-5973-8fbe-7ea20c5b10b0,Learn C++ Fundamentals,130
+83544634-814d-54a9-b20d-96f82f812415,All You Need to Know About Prompt Engineering,149
+be21822f-c0d1-558e-b0dd-a6628737fad1,Essentials of Large Language Models: A Beginner’s Journey,13
+d64b72df-83ce-508e-a0d1-89cb1102eac7,Grokking the Coding Interview Patterns in C#,64
+59cb9fe3-8d53-59e6-b756-a4bd476f565c,SQL Interview Preparation,70
+41b73cac-ad55-5b25-a966-8c7f2142d27b,Rust Programming Language,132
+f30fc127-c4f8-5f4d-bc49-c314338f9ffc,Terraform: From Beginner to Master with Examples in AWS,35
+053186c6-f5ee-5f35-b05a-f62fe08176fc,Software Design Patterns: Best Practices for Software Developers,128
+9dd07c04-513b-5615-a160-3dfca566f598,Introduction to Distributed Systems for Dummies,143
+493e2635-571d-5e03-867b-2a8642b31f96,An Introductory Guide to Data Science and Machine Learning,89
+b582f569-689e-542c-830e-76008bb7258f,Learn Object-Oriented Programming in C++,16
+4caadb42-4304-57b4-aa38-9e77de3c9676,Algorithms for Coding Interviews in Python,61
+b09a572b-578e-56a2-8e1d-3a35dd01394c,Mastering Leadership Interviews,41
+48c8acc5-5fc9-5ae9-ae95-e8e6a20d0d1a,The Complete Guide to Spring 6 and Spring Boot 3,86
+7bc8f0a6-8dba-5e02-9374-642602684a4f,Algorithms for Coding Interviews in Java,61
+aae885e8-a42e-507e-ae40-43e53194301c,Data Structures for Coding Interviews in Java,44
+6b0c1336-739b-5d77-95f2-995e73ade1df,An Introduction to Microservice Principles and Concepts,135
+5ea6efe7-f3cf-5a8f-a5bb-f7a60b82d718,Advanced RAG Techniques: Choosing the Right Approach,42
+3ad84a6a-c261-549f-90c6-2d83a6eb6559,Become an Effective Software Engineering Manager,40
+0d43969b-7f35-5164-b415-264f0fdcf2fa,An Introduction to Programming in Go,17
+25fcb0a0-89a4-56bb-ad9d-a5a545469cf1,JavaScript Fundamentals Before Learning React,57
+22144098-8062-54af-9d31-cd3dad324553,Introduction to Deep Learning & Neural Networks,30
+84d3929d-e869-59db-a315-880d47db1bd6,Data Structures for Coding Interviews in Python,44
+eed8a4b4-a85f-5c8c-9a2b-5c5c7a754210,Mastering Data Analysis with Python Pandas,60
+6e103353-069a-5350-b833-74e71485ceaa,Deep Dive into the Internals of the Database,67
+9d163e34-0f75-57c9-a20b-c91118e80b06,Infrastructure as Code Using Terraform,77
+775e87ed-6792-558d-8337-fc063a2c97c0,Flask: Develop Web Applications in Python,139
+3e6ace89-9e56-54a6-8899-7ac55eb163a9,Master AWS Certified AI Practitioner AIF-C01 Exam,99
+ff03a62c-aeb2-5a6e-b560-2e1c57e04e38,The Road to React: The One with Hooks,28
+01cbb8c3-ea68-53dd-861a-eda0e3f4256a,Full Speed Python,5
+c246c356-c79b-5ee9-980b-5acd761442a9,Advanced Windsurf AI for Professionals,110
+b687132c-3efd-53d5-a3bc-707e6aa86707,Mastering OpenAI API and ChatGPT for Innovative Applications,41
+59a981bf-fcf6-5b8b-962a-18d824ec70ba,Learn SQL from Scratch,122
+0180050d-e60e-5197-9a1c-286c30ccec61,Introduction to Big Data and Hadoop,142
+a227bbed-4a04-5a18-a138-aa6db49b0013,C# Concurrency for Senior Engineering Interviews,39
+219d2a21-caa7-5d72-91f5-78f3f9c4aef8,Mastering TypeScript,0
+26018c1a-4583-5fa0-bf3b-a98fee6b749b,A Complete Guide to Java Programming,33
+f6bf2cee-870e-57ae-af17-67f25c5f7c75,Learn Data Engineering,149
+cea6ee37-e9b9-5f3b-9e25-cb4ded9926cd,Grokking Dynamic Programming Interview,68
+cb362661-20c1-5a94-b6f3-f450ce043f33,The Java Interview Handbook: 300+ Interview Questions,9
+67e39c4f-46f0-5177-a9ca-3950179b3667,Automate Workflows with n8n,13
+850824dc-76f8-52c0-9228-a593e9f7d264,Build a REST API Using Python and Deploy it to Microsoft Azure,13
+46a1bd45-7aa0-5d42-a64f-9e9206e2a173,Collections in Java,23
+7139b160-d522-542e-b24d-ce8514af1be5,The Complete Guide to Bash Programming,33
+47442266-2c87-59dd-9647-e9544680ec46,Event-Driven Architecture in Golang,14
+248c98a9-681f-5faa-b69a-4a6084b2a935,Mastering Big Data with PySpark,142
+abce3c31-dbe0-5527-8c3d-d250ac05d5d9,Modern C++ Concurrency: Get the most out of any machine,126
+68e3c184-13ba-5a9d-a9a8-ca8e0ded5627,Learn Node.js: The Complete Course for Beginners,115
+9851f69f-0cc0-5d89-8dce-dcefba8c86bb,Getting Started with Windsurf AI,21
+1bb53254-a285-5a03-9743-568ffd09550a,The Complete Beginner’s Guide to CSS,33
+54d1fd25-a256-53a8-8f64-6a11079e5268,Microservice Architecture: Practical Implementation,108
+e935f838-ecda-59f1-8752-b81fe572e40b,MCP Fundamentals for Building AI Agents,107
+e5fd187a-1fcc-5342-906e-c59c17663e9f,Building a Back-End Application with NestJS,4
+0df6fe24-df22-5cda-bc5e-8d0f33a1f8eb,Domain Driven Design Made Easy,50
+51f84724-8b06-58d8-af1d-8a6dc56d46bb,Build Your Own Chatbot in Python,102
+bc72b97a-8bbe-5c2f-bed5-494e69d9b4cf,Master GitHub Copilot,13
+c048e434-499d-593f-8357-657cf93b6556,Learn SQL,70
+ff962915-599e-5716-8ffa-5e8b47214fab,Introduction to Apache Cassandra,111
+62e237de-fc31-59b2-ab21-a6549f0dfdfc,Grokking the Engineering Management and Leadership Interviews,39
+bfc6c3cd-1234-5787-8d21-aa3500b10f6f,MongoDB: The Complete Guide,33
+e6c39f1d-a147-5c18-96bd-ea96b86781e2,Python Quickstart for Experienced Programmers,76
+61a2776c-ba29-5f09-ae8d-1cc72bc5c50e,Agentic System Design,50
+d8123646-8211-51de-9dfa-1bcccb2fb9e0,Generative AI: From Theory to Product Launch,43
+e254dc72-832b-56b3-a81b-1a40bc62eac5,Acing the Engineering Manager Interview,40
+1efb8319-f229-5c38-8abf-f401e09fa68d,System Design Deep Dive: Real-World Distributed Systems,143
+dd1b25d1-6f36-50f6-9ab7-acbfd981462f,Cracking the Google Associate Cloud Engineer Certification,138
+909e6bcb-65c9-59a2-b2a9-73afd219d44a,Learn Object-Oriented Programming in JavaScript,16
+b43b8574-1a2c-5f5c-8112-f3bb0d9d1dad,Learning Python in the Age of AI,15
+f892b94e-9c39-5fb2-82a1-3c4b1259f65f,Azure Cloud Solutions Architect Program,13
+fa02a10f-8a88-5a32-8d65-0f26b1b8827b,Mastering PostgreSQL Databases: From Basics to Advanced,13
+d3bd3250-15ee-568d-bc53-67d9ffe82df6,Software Design Patterns in C,128
+3cca2a74-51d2-5416-9fa1-fae1ad46c69c,Angular: Designing and Architecting Web Applications,53
+d46996c0-416e-5cc8-b1a8-f354e9e7fd70,Python Data Analysis and Visualization,19
+28e2ef10-cc0a-5011-9e31-1b5df28ee11c,Bash for Programmers,76
+6fe6dd93-49f7-54d1-a9ca-c2ada253271c,The Complete Advanced Guide to CSS,33
+31895e2f-6fc9-5e91-8847-941b89450f6b,Claude Code: Workflows and Tools,77
+adb3a2d8-8aa5-51b2-a863-7bb2e2c2f0c5,Building Web Applications with React and ASP.NET Core,10
+d317e90d-32eb-5ec1-b409-fdfb51fd5843,Mastering Apache Kafka,41
+63ba2b57-6be4-53fb-b51c-c8db4de375bc,ASP.NET Core MVC,10
+d1b428b7-bcc8-5ff0-80e8-0078aab25ff2,Django: Python Web Development Unleashed,75
+ae870361-ed71-5e14-a8c4-94bf7c64369e,Grokking AI for Engineering & Product Managers,149
+0cad4638-8515-5292-87e1-c44f7beb5744,Python Concurrency for Senior Engineering Interviews,39
+6301e662-a895-5df3-a8be-dad790226147,C++ High Performance,13
+1e7f2b5b-fd13-5b4f-8066-76a9abb23114,Concurrency in Go,39
+bf101ab4-69ad-52c2-9cd0-38920e463ca8,Swift Programming for Mobile App Development,144
+a3a252f6-dfb6-52d9-8f47-36817fe13f5d,Python 3: From Beginner to Advanced,141
+9cc3083e-e038-5640-8627-23042baeecf8,An Introduction to Apache Airflow,111
+610f0a6d-d8f5-5bf1-b42b-d2750b2f4b35,The Angular Masterclass,53
+64317a03-fa94-5bd5-a545-7e79dc4a108a,Data Science Interview Handbook,9
+eba05040-aa6e-53f4-8ee8-282b6659f85b,Become a Blockchain Developer,18
+3ec43bfe-227e-5dd6-b042-542ca6238722,Learn Object-Oriented Programming in Python,16
+78b9ba66-7091-52f5-bfe3-7e43e7736fbc,Grokking the SQL Interview Patterns,64
+dbab2c7c-201a-5727-9561-38bbf76424c5,Learn Intermediate SQL,70
+4de33d10-dda5-549a-8959-1f9e43431033,Building Scalable Backend Services in Go,13
+ff0a421f-5480-5681-b147-d0729159d989,Master Ethereum Development: From Beginner to Dapp Developer,18
+df0ff6a1-d2c6-5544-8cc7-db3d56df8e0f,Building Practical Applications with Redis Using Go,105
+989276bb-ad41-547d-82e1-1f27ac3e168a,Technical Program Management: A Practitioner's Guide,72
+487aec07-4075-5781-806b-7f90fbd8572a,Practical Data Analysis with SQL,60
+77fcd8f8-d9c0-58f5-92ae-ee005b71c504,"REST APIs with Spring, JPA, and Springfox",86
+d714f87b-6237-5afd-8bf4-6e4cbc72edfc,Cloud Computing Fundamentals,57
+1fd6440a-43eb-5e1c-8db5-83ce21918aa9,Grokking Comp Negotiation in Tech,64
+62a308dd-c7ff-5de2-a73e-9ec9f10ebda8,Hacking the TPM Interview,54
+461da2cc-ea27-5f9b-8556-dffadd8031d9,The Ultimate Guide to Rust Programming,132
+210c233e-cbd3-5c99-b2a9-5ce242deb9af,"Web Security and Access Management: JWT, OAuth2 & OpenId Connect",93
+d52b013f-aceb-515f-bc5b-c6d73091ed12,Working with Containers: Docker & Docker Compose,81
+251e47df-7e9d-5f5a-a35b-1539b6335e6f,Master the Bash Shell,13
+00a711fc-c059-56e4-bba0-3f7e6e4014ba,Data Structures for Coding Interviews in JavaScript,44
+f269d653-0aca-5ec1-b263-18ea11eeba87,Grokking CSS Design Patterns to Ace Interviews,64
+3cf73d24-ab5c-5848-8853-7b8d97ba3058,Cursor AI for Enterprise: Modernizing Professional Development,127
+f2d05103-ead0-5b2f-a43b-8d352f5963dd,Learn Data Analysis,60
+45b6fcbe-c83c-5966-8336-9282233bf96b,Master Agentic Design Patterns,128
+64849d8c-6279-5192-ae77-1d37ec7cca39,Learn TypeScript,0
+d1972437-b495-525e-88b5-783efe74ffab,Ace the AI Engineer Interviews,138
+b006a76a-7284-5a40-a9c9-0be8f9e45e13,Code Smarter with Cursor AI Editor,77
+92d71421-0914-5518-ad6c-6063274eb274,Mastering LlamaIndex: From Fundamentals to Building AI Apps,107
+2ec4a6a7-2fc0-548b-9e31-5806d906ff11,Build AI Agents and Multi-Agent Systems with CrewAI,118
+301a67a3-7579-57f6-ad27-9f4aab64d401,Data Engineering Foundations in Python,149
+69956e7c-67a7-50cc-b95a-758915df7656,Scikit-Learn for Machine Learning,45
+db2348b1-b1db-533a-98f6-fd8196ae989d,Automating a CI/CD Pipeline with AWS DevOps,27
+781b2899-7cfe-54b4-a568-f0d63dbd0ad2,Building a Blockchain from Scratch Using Solidity and Ethereum,122
+6cc48ad8-c91f-5afa-93b4-b850c72bb1c8,A Complete Guide for Virtual Private Cloud Using AWS,33
+2dcb9867-e438-5db3-8da4-617339275ad9,Data Storytelling through Visualizations in Python,34
+9eaa4077-6f1b-5495-af59-9f7671f2cf53,Learn C# Fundamentals,130
+82c2ee3c-d6ad-54df-8fd9-87478ac9f683,Simple Steps to Building Modern Applications with Docker,65
+1f6a5d14-94cf-564c-9312-2259792454b7,Docker Guide for Beginners,81
+c39e406e-876a-5174-a2ff-508ec84c2450,Build Java Projects with Maven,102
+c56fed3f-21a4-536c-9588-6b947c50d7cf,Data Analysis & Processing with Pandas,60
+8eca5c6a-4893-5528-85e4-cc2d4f32e326,"Java 8 for Experienced Developers: Lambdas, Stream API & Beyond",13
+95848f4d-6e36-5001-b569-148e0b2775c9,An Introductory Guide to SQL,70
+5c024076-2305-5166-9ce0-31cc44da677b,C++ Fundamentals for Professionals,110
+58ef1d0a-4f6f-57d0-b055-54228ca8c78b,Learn TypeScript: The Complete Course for Beginners,115
+c58e598b-1abc-5e8f-9103-cce9a6c8ac43,Grokking Data Science,89
+f305b3c4-61b7-5fd2-bd0b-42971bc51cce,"Machine Learning with NumPy, pandas, scikit-learn, and More",45
+c48166e4-8265-5943-bc50-868917728ecd,Learn PHP,136
+5002f0ff-d931-54e6-b12f-5898733f236f,Data Structures for Coding Interviews in C++,44
+fdf60b77-de0d-5abe-a26b-5c715de03003,Web Development: A Primer,75
+e0d9d107-33a3-5fb0-881b-3f79dcc6c59a,Introduction to JavaScript: First Steps,111
+17eec4f6-2986-5769-979e-6be3795577af,Step Up Your JS: A Comprehensive Guide to Intermediate JavaScript,20
+d5139677-4d23-5b54-8044-12cc3b7621d2,Coderust: Hacking the Coding Interview,54
+0f7210bc-ca54-5b51-af88-490e7f71afcc,Learn the A to Z of  Amazon Web Services  (AWS),35
+2993fa40-10d0-5238-a70f-fd93834de26b,The JavaScript Interview Handbook: 100+ Interview Questions,9
+e457e5e1-c5c3-530c-bd43-7402805a3aa9,Learn Python 3 from Scratch,122
+1ad62fea-124c-5890-adb4-2010db157bd2,"Web Development: Unraveling HTML, CSS, and JavaScript",96
+021b1161-5d42-5be6-b99c-76e57802c026,The Good Parts of AWS: Cutting Through the Clutter,35
+ceaa8049-be6d-5006-8327-ae68944e2b00,Distributed Systems: Building Software for the Real World,143
+bd7d20e9-abb1-5974-b049-8f65a6125cba,The Easiest Way to Learn Design Patterns in C#,128
+68500bf6-553c-5919-8f08-bda1b63a84f7,Learn to Code with AI,36
+f9c50c26-57b1-559d-83fb-9126c1ba557a,Learn Git,8
+25fd0c88-e271-57f6-a1b1-5f97d685f215,C# for Programmers: A Practical Guide,108
+0198b2c3-2bad-56f1-9c8e-2e03fe0771b3,Complete JavaScript Course: Build a Real World App from Scratch,121
+fef20177-126f-5e73-99ef-ae234fcf0fba,Recursion for Coding Interviews in Java,112
+8831767f-14cd-52ad-9959-3aa1b9859087,Cyber Security Best Practices for Developers,79
+836f9e49-e8a6-514f-8ecf-1e1d74e3ca30,Quick Start with Kubernetes,120
+8a005e85-3773-5f8e-a7d2-fb397b73a2d1,Running Serverless Applications with AWS Lambda,35
+daf1a2a7-b25c-5abc-9371-8b46dfa593e2,Learn Object-Oriented Programming in C#,16
+fe2d4aa5-1a1b-531a-a50b-a7e556b42d80,Learn Java Fundamentals,130
+748467f6-92c1-5ca1-a204-a4fba4a29f57,A Visual Introduction to Algorithms,111
+b9723d56-1d79-52f1-84ab-6e3c26208fda,Advanced Programming Techniques in C,42
+91d538e8-c6c0-57e8-8973-87716ae4e524,Automate Your Network,145
+72d04bb9-867e-5b7d-b4be-b749fb08273c,C++17 in Detail: A Deep Dive,67
+0cca1e65-90ae-5183-a43c-162049779eb9,Data Structures for Coding Interviews in C#,44
+dbf0ec0e-43dc-52af-8da9-2669ebe55191,Grokking Dynamic Programming Interview in Python,68
+c634a621-2124-56ce-bba5-7aed009f78a6,Generative AI Handbook,43
+6aad4674-575b-53cb-a265-38dece75f1cc,Mastering Algorithms for Problem Solving in Java,103
+27ff009b-de63-5999-96ec-1257f0dd3659,Master AWS Certified Cloud Practitioner CLF-C02 Exam,99
+11a0a20e-1b60-5880-80c5-5dc936fda1df,Data Structures & Algorithms In Go,37
+1feae007-e85a-51e2-aab3-31b489817168,Machine Learning Handbook,45
+c6e22f01-16d1-566f-a751-a499b76ff79c,Quick Start Full Stack Web Development,75
+42e5395f-9f64-58b8-a14d-7b4f0ff56b12,Build and Publish Your First Mobile App Using Flutter,144
+02a54890-99b8-51e4-9604-285bc64fa3c8,The Definitive Guide to MongoDB,78
+a9ad42cb-96d4-5933-b803-187cc681f0d2,Learn to Code: Javascript for Absolute Beginners,52
+2f85931e-f28b-55de-a4bf-9bc13f41b211,System Design Interview: DoorDash,50
+20eeff5e-75f6-5577-ae9a-8bc0dc1c096d,Object-Oriented Programming in Python,16
+9ae578f6-214a-59d3-9746-f8b82b441278,C++ Standard Library including C++ 14 & C++ 17,13
+0aac5528-f6dd-55cf-8d0e-3160727138be,Effective Software Development for Enterprise Applications,119
+3f72d766-5796-5831-8618-cefab4fed240,Google Gemini for Beginners: From Basics to Building AI Apps,13
+eb0be130-45a9-5441-b6be-54bf2c928fd7,Harnessing the Power of the Command-Line Interface,13
+23df42f1-e985-5436-b255-d01de9d15d46,Learn R,8
+ea977d6f-27f1-5312-a335-af75df405d53,The Complete Guide to DevOps in Azure,33
+a296c345-0cd9-510e-a2a3-fa04a6dc7da5,Data Science for Non-Programmers,89
+2540b0a5-f1ae-52b1-85a1-505842304f1c,Decode the Coding Interview in Java: Real-World Examples,25
+570942ee-235a-565e-9556-adaa95e6fae6,Master Software Design Patterns and Architecture in C++,128
+c246ad04-7e1a-553b-9ff5-c593f14c56fa,API Analytics for Product Managers,13
+875cab88-f555-5236-9b3f-85e8f7bb6919,Building Dynamic Web Applications with Next.js,65
+054e9a27-8e20-597f-ba13-47d406be7c60,Clean Architecture in Python,14
+f5f3ea7b-b768-5bf0-b2bf-86d2ea34bacd,Data Structures with Generic Types in C++,37
+c88584d7-924c-5ff4-a3c4-c1f346503653,From Pandas to PySpark DataFrame,13
+e4d80a2a-539a-57af-b8dc-1c51b440efba,Learn Functional Programming in Python,55
+add18ae7-c406-5cc4-a19f-3ce823242102,Learn Ruby from Scratch,47
+34c05a23-4217-5cd1-ac21-e0bc7cd79a00,Linear Algebra for Data Science Using Python,89
+f71f5ade-d2d1-5c1e-8cc3-231c102b1f11,Simplifying State Management in React Native,72
+decef0ca-415f-52d6-99ce-ad20a15f8417,The All-in-One Guide to C++20,78
+f516bd85-b7ee-5136-bf50-a96a86b76d7f,The Fundamentals of Quantum Computing,57
+91cf5b6f-d013-51c9-92bf-86f8f53a38fb,Unleash the Power of Large Language Models Using LangChain,13
+8dba5b86-2d7c-5b02-833d-00315e3f1a75,Data Science in Production: Building Scalable Model Pipelines,89
+f8c4ad51-6b28-5416-8447-7092a73a160c,Learn Scala,8
+1cf86a4d-65ef-528f-bdd6-39657f0bad1e,Learning Angular,53
+eba173a4-a8b0-57fc-918e-97a5ca920a27,Mastering Kotlin Coroutines,148
+dc394e52-d038-5811-9c70-207dac1b482a,Vector Databases: From Embeddings to Applications,13
+13ad6839-209b-50c2-8780-31eebdc0a007,Getting Started with Mobile App Development with React Native,144
+5b2d1923-8bb2-52f7-b885-094fc9d8db54,Mastering Algorithms for Problem Solving in Python,103
+e13ece73-5ac2-5a53-b8b7-aad5df319a75,Understanding the Basics of Tailwind CSS,96
+95eb872c-b07c-51b6-b97d-abecd5186453,A Complete Guide to Launching Your Website: From Local to Live,33
+d4530be4-ca9c-549d-b978-78ea436dabe8,Become an Inspirational Manager: Bring Out the Best In Others,79
+4c954ece-82ef-5c0a-b7e9-022065c255d9,Node.js Design Patterns,106
+eb00dd8c-c5bf-5c58-8023-2e3892fd3ae2,Intermediate JavaScript: Building Frontend Components,13
+0a626591-a1b0-56dc-9bfa-6ecd4807a278,Introduction to Logic: Basics of Mathematical Reasoning,111
+2de37d15-1525-581c-b564-3d637653d375,Lean Product Management,72
+4a87bbd7-885c-57b4-886b-a1e37fc0b503,Software Architecture in Java: Design & Development,119
+5b4a1082-9081-5c4c-90f9-feaef566d0db,Recursion for Coding Interviews in Python,112
+c589f06f-a80c-5666-9ca3-6978cc6af664,Building Robust Object-Oriented Python Applications and Libraries,16
+c43f411a-ff47-57b9-9cbb-37b6f8aacc84,Fine-Tuning LLMs Using LoRA and QLoRA,84
+95913052-625c-5eb1-9968-4ad87c006523,Full Stack Django and React,12
+ce4c2e19-fae4-50dd-b9d3-39eaab18e1f0,Getting Started with Google BERT,21
+cb8acb75-70f9-5026-a52d-d9523f775fbf,Learn to Code: Java for Absolute Beginners,52
+5a3b28e8-d7b5-57d8-b1a2-9b3ca0687f8d,Web Application Security for the Everyday Software Engineer,138
+028ae1a9-af7f-5881-97d7-9c6c8ef98b7e,Advanced System Design Interview Prep: Crash Course,50
+d5cddfc1-da99-5c21-81d4-f708d907107d,"Beginning Node.js, Express & MongoDB Development",106
+71ee788a-8913-5ab0-91e5-1347c49d0b54,The Art of PostgreSQL,13
+e0105232-2f71-5cce-a25b-587a28e705ed,Building Scalable Applications with Thymeleaf and Spring Boot,86
+900dd59f-4056-5a8d-a982-fc23609341ee,Hexagonal Software Architecture for Web Applications,119
+2bd45c8e-b5a8-59d9-87c9-9b562c75a60a,JavaScript Design Patterns for Coding Interviews,112
+fc715ac8-a544-53df-a410-b807df0d0e04,Master Knowledge Graph Retrieval-Augmented Generation with Neo4j,82
+f8f9a52d-497c-520b-8e6f-ee02e2a2aa5e,Docker Deep Dive: Advanced Techniques,67
+a6ce100c-cfbe-5204-8ae4-ab992fa1bf65,Learn React 19: The Complete Guide to Modern Web Apps,33
+24158e7d-8063-5459-a5bb-4596c2c21f19,Data Structures with Generic Types in Java,44
+2013539d-2b78-5061-89ab-fa6fa76e7f5e,Learn C#,8
+36fdaedf-0fd1-5f33-aab0-8eb27145b3ec,Modern CMake for C++,126
+0d18a30b-7f9a-5d46-b1d4-a20680332415,Embedded Programming with Modern C++,126
+feebaba9-7ffe-5438-9420-e908ad9740cc,Introduction to Data Science with Python,89
+9a1cb6cc-99cd-5b8b-9aa1-d4c03357ef78,Mini Course: Build Rock Paper Scissors with Python,121
+d7957da8-84de-5b3c-a84a-5146f432fe64,The Ultimate Guide to Kotlin Programming,132
+abd68494-750e-5fec-bf10-97602cafa6ba,The Hacker's Guide to Scaling Python,78
