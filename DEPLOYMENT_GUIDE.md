@@ -1,10 +1,10 @@
-# Vercel Deployment Guide for FastAPI
+# Render Deployment Guide for FastAPI
 
 
 ## Prerequisites
 
 1. **GitHub Account** - Sign up at https://github.com if you don't have one
-2. **Vercel Account** - Sign up at https://vercel.com (use GitHub login for easy integration)
+2. **Render Account** - Sign up at https://render.com (use GitHub login for easy integration)
 3. **Git installed** - Download from https://git-scm.com
 
 ## Step 1: Push Your Code to GitHub
@@ -25,46 +25,48 @@ git branch -M main
 git push -u origin main
 ```
 
-## Step 2: Deploy to Vercel
+## Step 2: Deploy to Render
 
-### Option A: Via Vercel Dashboard (Recommended for Beginners)
+### Option A: Via Render Dashboard (Recommended for Beginners)
 
-1. Go to https://vercel.com/dashboard
-2. Click **"Add New..."** → **"Project"**
-3. Select **"Import Git Repository"**
-4. Find and select your GitHub repository
-5. Click **"Deploy"**
-6. Wait for deployment to complete (~1-2 minutes)
+1. Go to https://dashboard.render.com
+2. Click **"New +"** → **"Web Service"**
+3. Connect your GitHub account if not already connected
+4. Select your repository
+5. Configure the service:
+   - **Name**: `bwai-recsys-api` (or your preferred name)
+   - **Runtime**: `Python 3`
+   - **Build Command**: `pip install -r requirements.txt`
+   - **Start Command**: `uvicorn src.api.main:app --host 0.0.0.0 --port $PORT`
+6. Click **"Create Web Service"**
+7. Wait for deployment to complete (~2-5 minutes)
 
-### Option B: Via Vercel CLI
+### Option B: Via Blueprint (render.yaml)
 
-```bash
-# Install Vercel CLI
-npm install -g vercel
+The repository includes a `render.yaml` file for one-click deployment:
 
-# Login to Vercel
-vercel login
-
-# Deploy (run from project root)
-vercel
-```
+1. Go to https://dashboard.render.com/blueprints
+2. Click **"New Blueprint Instance"**
+3. Select your repository
+4. Click **"Apply"**
+5. Render will automatically configure and deploy your service
 
 ## Step 3: Test Your API
 
-After deployment, Vercel will give you a URL like `https://your-project.vercel.app`
+After deployment, Render will give you a URL like `https://bwai-recsys-api.onrender.com`
 
 Test the API:
 
 ```bash
-curl "https://your-project.vercel.app/api/recommend/user123?top_k=10"
+curl "https://bwai-recsys-api.onrender.com/recommend/user123?top_k=10"
 ```
 
 Or open in browser:
 ```
-https://your-project.vercel.app/api/recommend/user123?top_k=10
+https://bwai-recsys-api.onrender.com/recommend/user123?top_k=10
 ```
 
-## Project Structure for Vercel
+## Project Structure for Render
 
 ```
 ├── src/
@@ -74,7 +76,7 @@ https://your-project.vercel.app/api/recommend/user123?top_k=10
 ├── data/
 │   └── processed/
 │       └── synthetic_interactions.csv
-├── vercel.json             # Vercel config
+├── render.yaml             # Render Blueprint config
 └── requirements.txt        # Python dependencies
 ```
 
@@ -98,17 +100,20 @@ curl "http://localhost:8000/recommend/user123?top_k=10"
 
 ## Troubleshooting
 
+
 ### Common Issues
 
 1. **Import errors**: Make sure `requirements.txt` includes all dependencies
 2. **File not found**: Check that data files are committed to git
-3. **Build fails**: Check Vercel build logs for errors
+3. **Build fails**: Check Render build logs for errors
 
-### Vercel Limits (Free Tier)
+### Render Limits (Free Tier)
 
+- 750 hours/month of running time
+- Services spin down after 15 minutes of inactivity
+- First request after spin-down may take ~30 seconds (cold start)
+- 512MB RAM
 - 100GB bandwidth/month
-- 10-second execution timeout
-- 50MB max bundle size (including data files)
 
 ## Next Steps
 
@@ -116,3 +121,4 @@ curl "http://localhost:8000/recommend/user123?top_k=10"
 - Add more recommendation endpoints
 - Add authentication
 - Connect to a database instead of CSV files
+- Upgrade to paid tier for always-on service
