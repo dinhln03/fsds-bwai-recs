@@ -16,6 +16,11 @@ df = pd.read_csv(DATA_PATH)
 popular_items = df.groupby("item_id")["interaction"].sum().sort_values(ascending=False)
 
 
+@app.get("/health")
+def health_check():
+    return {"status": "healthy"}
+
+
 @app.get("/recommend/{user_id}")
 def get_popular_recommendations(user_id: str, top_k: int = 100):
     top_items = popular_items.head(top_k).index.tolist()
