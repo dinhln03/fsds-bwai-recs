@@ -1,4 +1,5 @@
 from collections import defaultdict
+import logging
 from typing import Dict, List, Optional, Set
 
 import pandas as pd
@@ -6,6 +7,8 @@ from mlxtend.frequent_patterns import association_rules, fpgrowth
 from mlxtend.preprocessing import TransactionEncoder
 
 from ...base import BaseRecommendationEngine
+
+logger = logging.getLogger(__name__)
 
 
 class FPGrowthRecommendationEngine(BaseRecommendationEngine):
@@ -24,27 +27,42 @@ class FPGrowthRecommendationEngine(BaseRecommendationEngine):
         transactions: List of transactions, where each transaction is a list of items
         """
         if not transactions:
+            logger.warning("No transactions to fit")
             return
 
+        logger.info(f"Starting FP-Growth with {len(transactions)} transactions")
+        
+        # Limit transactions for performance
+        if len(transactions) > 200:
+            transactions = transactions[:200]
+            logger.info(f"Limited to {len(transactions)} transactions")
+
         # Convert transactions to binary matrix format using TransactionEncoder
+        logger.info("Encoding transactions...")
         te = TransactionEncoder()
         te_ary = te.fit(transactions).transform(transactions)
         df = pd.DataFrame(te_ary, columns=te.columns_)
+        logger.info(f"Matrix shape: {df.shape}")
 
         # Mine frequent itemsets using FP-Growth
+        logger.info(f"Mining frequent itemsets with min_support={self.min_support}...")
         self.frequent_itemsets = fpgrowth(
             df, min_support=self.min_support, use_colnames=True
         )
+        logger.info(f"Found {len(self.frequent_itemsets)} frequent itemsets")
 
         if self.frequent_itemsets.empty:
+            logger.warning("No frequent itemsets found")
             return
 
         # Generate association rules
+        logger.info(f"Generating association rules with min_confidence={self.min_confidence}...")
         self.association_rules_df = association_rules(
             self.frequent_itemsets,
             metric="confidence",
             min_threshold=self.min_confidence,
         )
+        logger.info(f"Found {len(self.association_rules_df)} association rules")
 
         # Build item-to-item recommendations
         self._build_item_recommendations()
@@ -110,3 +128,18 @@ class FPGrowthRecommendationEngine(BaseRecommendationEngine):
     def get_item_recommendations_dict(self) -> Dict[str, List[tuple[str, float]]]:
         """Return the item-to-item recommendations dictionary"""
         return dict(self.item_recommendations)
+
+    def get_popular_associated_items(self, num_items: int = 10) -> List[str]:
+        """Get items that appear most frequently in association rules (as consequents)."""
+        if self.association_rules_df is None or self.association_rules_df.empty:
+            return []
+        
+        # Count how often each item appears as a consequent, weighted by confidence
+        item_scores = defaultdict(float)
+        for _, rule in self.association_rules_df.iterrows():
+            confidence = rule["confidence"]
+            for item in rule["consequents"]:
+                item_scores[item] += confidence
+        
+        sorted_items = sorted(item_scores.items(), key=lambda x: x[1], reverse=True)
+        return [item for item, _ in sorted_items[:num_items]]

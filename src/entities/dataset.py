@@ -26,3 +26,16 @@ class CSVDataset(BaseDataset):
 
     def get_pandas_dataframe(self) -> pd.DataFrame:
         return self.pandas_df
+
+
+class MongoDataset(BaseDataset):
+    model_config = {"arbitrary_types_allowed": True}
+
+    user_col: str = "user_id"
+    item_col: str = "item_id"
+    interaction_col: str = "interaction"
+    timestamp_col: str = "timestamp"
+    pandas_df: pd.DataFrame
+
+    def get_pandas_dataframe(self) -> pd.DataFrame:
+        return self.pandas_df

@@ -7,7 +7,7 @@ class RecommendationItem(BaseModel):
 
 
 class RecommendationResponse(BaseModel):
-    user_id: str
+    user_id: str | None = None
     recommendations: list[RecommendationItem]
 
 

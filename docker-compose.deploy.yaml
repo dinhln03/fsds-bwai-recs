@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: bwai_recsys_api
+    environment:
+      - MONGO_HOST=mongodb
+      - MONGO_PORT=27017
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongodb
+    networks:
+      - bwai_network
+    restart: unless-stopped
+
+  mongodb:
+    container_name: bwai_mongodb_container
+    image: mongo:7.0
+    environment:
+      MONGO_INITDB_DATABASE: fsds
+    volumes:
+      - mongodb_data:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - bwai_network
+    restart: unless-stopped
+
+networks:
+  bwai_network:
+    driver: bridge
+
+volumes:
+  mongodb_data:
