@@ -5,17 +5,17 @@ services:
     build: .
     container_name: bwai_recsys_api
     environment:
-      - MONGO_HOST=mongodb
+      - MONGO_HOST=mongo
       - MONGO_PORT=27017
     ports:
       - "8000:8000"
     depends_on:
-      - mongodb
+      - mongo
     networks:
       - bwai_network
     restart: unless-stopped
 
-  mongodb:
+  mongo:
     container_name: bwai_mongodb_container
     image: mongo:7.0
     environment:
@@ -27,6 +27,22 @@ services:
     networks:
       - bwai_network
     restart: unless-stopped
+
+  mongo-express:
+    image: mongo-express
+    container_name: bwai_mongo_express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongo
+      ME_CONFIG_MONGODB_PORT: 27017
+      ME_CONFIG_BASICAUTH_USERNAME: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: pass
+    depends_on:
+      - mongo
+    networks:
+      - bwai_network
 
 networks:
   bwai_network:
