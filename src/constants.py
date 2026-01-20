@@ -16,5 +16,5 @@ SYNTHETIC_INTERACTIONS_FILE = "synthetic_interactions.csv"
 # MongoDB settings
 MONGO_HOST = os.getenv("MONGO_HOST", "localhost")
 MONGO_PORT = os.getenv("MONGO_PORT", "27017")
-MONGO_URI = f"mongodb://{MONGO_HOST}:{MONGO_PORT}"
-MONGO_DB = "fsds"
+MONGO_URI = os.getenv("MONGO_URI", f"mongodb://{MONGO_HOST}:{MONGO_PORT}")
+MONGO_DB = os.getenv("MONGO_DB", "fsds")
