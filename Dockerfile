@@ -11,8 +11,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Set environment variables
-ENV MONGO_HOST=mongodb
-ENV MONGO_PORT=27017
 ENV PYTHONPATH=/app
 
 EXPOSE 8000
