@@ -38,6 +38,8 @@ git push -u origin main
    - **Runtime**: `Python 3`
    - **Build Command**: `pip install -r requirements.txt`
    - **Start Command**: `uvicorn src.api.main:app --host 0.0.0.0 --port $PORT`
+6. Configure your MongoDB Env
+![alt text](/images/image.png)
 6. Click **"Create Web Service"**
 7. Wait for deployment to complete (~2-5 minutes)
 
@@ -66,47 +68,6 @@ Or open in browser:
 https://bwai-recsys-api.onrender.com/recommend/user123?top_k=10
 ```
 
-## Project Structure for Render
-
-```
-├── src/
-│   ├── api/
-│   │   └── main.py         # FastAPI app
-│   └── constants.py        # Path constants
-├── data/
-│   └── processed/
-│       └── synthetic_interactions.csv
-├── render.yaml             # Render Blueprint config
-└── requirements.txt        # Python dependencies
-```
-
-## Local Development
-
-### Using uv (Recommended)
-
-```bash
-# Install dependencies
-uv add fastapi pandas uvicorn
-
-# Run locally
-uv run uvicorn src.api.main:app --reload
-```
-
-### Test locally
-
-```bash
-curl "http://localhost:8000/recommend/user123?top_k=10"
-```
-
-## Troubleshooting
-
-
-### Common Issues
-
-1. **Import errors**: Make sure `requirements.txt` includes all dependencies
-2. **File not found**: Check that data files are committed to git
-3. **Build fails**: Check Render build logs for errors
-
 ### Render Limits (Free Tier)
 
 - 750 hours/month of running time
@@ -114,11 +75,3 @@ curl "http://localhost:8000/recommend/user123?top_k=10"
 - First request after spin-down may take ~30 seconds (cold start)
 - 512MB RAM
 - 100GB bandwidth/month
-
-## Next Steps
-
-- Add caching for better performance
-- Add more recommendation endpoints
-- Add authentication
-- Connect to a database instead of CSV files
-- Upgrade to paid tier for always-on service

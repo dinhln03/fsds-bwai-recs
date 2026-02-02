@@ -23,10 +23,6 @@ cp .env.example .env
 # For local MongoDB
 MONGO_HOST=localhost
 MONGO_PORT=27017
-
-# OR for MongoDB Atlas/Remote MongoDB (recommended for production)
-# Uncomment and update with your connection string:
-# MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/dbname
 ```
 
 **Environment Variables:**
