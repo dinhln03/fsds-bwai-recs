@@ -28,7 +28,6 @@ MONGO_PORT=27017
 **Environment Variables:**
 - `MONGO_HOST`: MongoDB host address (default: localhost)
 - `MONGO_PORT`: MongoDB port (default: 27017)
-- `MONGO_URI`: Full MongoDB connection string (overrides MONGO_HOST/PORT if set) (Optional)
 
 > ⚠️ **Note:** Make sure to update the MongoDB connection details before running the application. The default values connect to `localhost:27017`.
 
